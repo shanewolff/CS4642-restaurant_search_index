@@ -1,0 +1,23 @@
+url: https://www.yamu.lk/place/bombay-sweet-centre/review-5437
+name: Bombay Sweet Centre (Wellawatte)
+excerpt: Bombay Sweet Centre does an excellent almond milk (Rs. 150) and beef samosa (Rs. 30). The samosa was the best I've had in the city - full of meat and gleaming green chillis, but not stomach unsettlingly spicy. The piece of muscat was just indulgence.
+yamu_review: ["\n                                                                \n                                                                                                                                    Bombay Sweet Centre does an excellent almond milk (Rs. 150) and beef samosa (Rs. 30). The samosa was the best I've had in the city - full of meat and gleaming green chillis, but not stomach unsettlingly spicy. The piece of muscat was just indulgence.\n                                                                                                                            ", '\n                                                                                                                                    ', '\n                                                                \n                                                                                                                                    බොම්බේ ස්වීට් සෙන්ටර් වෙත ගොඩවුණා. ඒ අපූරු, වියළි ස්ථානයේ වැස්ස පායනතුරු අසුන්ගෙන සිටීම සාධාරණීකරණය කරන්න මම යමක් ඇණවුම් කළා. ප්\u200dරතිඵලය විශිෂ්ටයි. ඒ රු. 150ක් වූ ආමන්ඩ්, කිරි හා වතුර බ්ලෙන්ඩරයේ දමා සකසන ලද ගානට රස තිබුණු ආමන්ඩ් මිල්ක් එකක්, මස් හා කොළ මිරිස් පිරවූ, ගානට කුළුබඩු යොදා තිබුණු, බඩත් අප්සෙට් නොකළ රු. 30ක මා කා ඇති හොඳම වර්ගයේ සමෝසාඑකක් හා නරක නැති මස්කට් කෑල්ලක්. \n                                                                                                                            ']
+user_reviews: []
+user_comments: ["\n\n                                    Thanks for recommending this place…I have been passing this place for years but stepped in for 1st time after reading your post …gotta say …  their beef samosa is absolutely delicious . parking is bit of  a hassle since it's located  right on the bend\n                                            ", "\n\n                                    I used to go there to by jelabees, muscat and faluda but once i found them breaking the ice in the toilet and i just couldn't stomach anything else from there! Now i just go to Roots and order my beef samosas from this lady!\n                                            ", '\n\n                                    There are two places in wellawaththa. There is a one right after the Wellaththa junction too coming from dehiwala side. ', '\r\nBut NEVER try their apple juice with milk. I tried once just for the curiosity. It sucks. They just put apple slices+water+milk+sugar and blend it. ', "\r\nBut other than that all of their sweets are very good and actually I have tried most of them to find the best sweet and I still can't choose a best sweet. All are same good. :)\n                                            ", '\n\n                                    Love the Almond milk and the Gulab Jamun. \n                                            ']
+contact: Call 0112583561
+address: 161 Galle Road Wellawatte 
+directions: 
+                
+opening_days: ['MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY', 'SUNDAY']
+opening_hours: ['08:00 AM – 09:00 PM', '08:00 AM – 09:00 PM', '08:00 AM – 09:00 PM', '08:00 AM – 09:00 PM', '08:00 AM – 09:00 PM', '08:00 AM – 09:00 PM', '08:00 AM – 09:00 PM']
+cuisine: ['North Indian']
+price_range: Between Rs. 200 - Rs. 500
+dishes: ['Indian Sweets']
+overall_rating: 3
+quality_rating: 3
+service_rating: 3
+ambience_rating: 3
+near_by_places_names: ['Burger Q ', 'Yarl Eat House', 'Kamsins', 'Bombay Sweet Mahal (Wellawatte)', 'Supun Arcade']
+near_by_places_addresses: ['Lily Avenue, Colombo 06', '46/1 Station Road, Wellawatte', '22. M/1, W.A. De Silva Mawatha, Colombo 3', '195 Galle Road, Colombo 6', '56 Galle Road, Colombo 6']
+near_by_places_distances: [' 11 m away', ' 56 m away', ' 96 m away', ' 109 m away', ' 153 m away']
+similar_places: ['Bombay Sweet Mahal (Wellawatte)', 'Indian Chaat Corner']

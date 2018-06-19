@@ -1,0 +1,22 @@
+url: https://www.yamu.lk/place/umbrella-art-cafe/review-157684
+name: Umbrella Art Cafe
+excerpt: A small cafe along Passara Road in Ella ran by a lovely Russian couple.
+yamu_review: ['අම්බ්\u200dරෙල්ලා ආර්ට් කැෆේ කියන්නෙ ඇල්ලෙ තියෙන තවත් පොඩි කෝපි කඩයක්. තරුණ රුසියන් කපල් එකක් තමයි මේක කරන්නෙ. පුංචි සිරිපාදේ කරුණාකරල දිවගිලෙන තිබහෙන් හිටපු අපිත් ආපහු යන ගමන් මෙතනට ගොඩවුණා, මොනව හරි බොන්න.', 'ඇල්ල හන්දියේ ඉඳන් පුංචි සිරිපාෙද පැත්තට යන පස්සර පාරෙ තමයි මේක තියෙන්නෙ. බිත්ති පුරා ඇඳල තියෙන පොඩ්ඩක් සයිකඩෙලික් පැත්තට බර ග්\u200dරැෆිටි නිසා දැක්ක ගමන් අඳුනගන්න පුළුවන්. අපි යද්දිත් අර රෂියන් කෙල්ල බිත්තිවල අලුතින් චිත්\u200dර අඳිනවා.', 'කොමඩු ජූස් එක (රු. 250) ටිකක් වතුර පැත්තට බරයි. මම හිතන්නෙ වතුර ගතිය වැඩි කොමඩු ගෙඩියක් වෙන්න ඕන. හැබැයි කන්ද නැගලා බැහැලා දිවගිලෙන ගාණට හිටපු ඒ වෙලාවට නම් ඒක මාර රිෆ්\u200dරෙෂිං.', 'ලාටේ එකත් (රු. 280) ටිකක් වතුර පැත්තට බරයි. හැබැයි රසයි. කෝපි වර්ග ගැන මගේ දැනුම අන්තිම වුණත් මගේ යාළුවෝ ටික නම් කීවේ කැපිචිනෝ එක (රු. 280) මාර රසයි කියලා.', 'කෙසෙල් ගෙඩියක් වටේට එතිච්ච පෑන්කේක් එක උඩට දාපු චොකලට් සිරප් ටිකක් එකක් එන බනානා ෆැන්කේක් එක (රු. 350) නම් මරු. හදන්න ටිකක් වෙලා ගියාට මොකද උණුඋණුවෙ ම මේසෙට එන්නෙ, ඕන නම් මේක අයිස්ක්\u200dරීම් එකකත් ගන්න පුළුවන්.', 'පෑන්කේක් එකත් එක්ක බොන්න අපි ගත්තේ අර්ල් ග්\u200dරේ තේ (රු. 150) පොට් එකක්. මම වැඩිය තේවලට කැමති කෙනෙක් නෙවෙයි. ඒත් පොඩි පැඟිරි සුවඳකුත් එක්ක එන මේ අර්ල් තේ එකට නම් මමත් ආසයි. ලොකු කහටක් නෑ, හරිම ලයිට්.', 'කොහොමත් මෙතන හදල තියෙන්නෙ ම වාඩිවෙලා ගොඩක් වෙලා ගතකරන අයට හරියන විදියට නිසාද කොහෙද කෑම බීම එන්නත් ටිකක් වෙලා යනවා. සැරෙන් සැරේ කවුරුත් ළගට ඇවිත් බලන්නෙත් නෑ, අපට මොනව හරි ඕන නම් මේසේ උඩ තියෙන පොඩි ගැජට් එකේ බොත්තම ඔබන්න ඕන. මෙතන එක කොනක මේසයක් තියෙනවා ටිකක් අනිත් මේසවලට වඩා වෙනස්; පොඩි එළිය අඩු ලයිට් එකක් දාලා, මේසේ පුරා සයිකඩෙලික් චිත්\u200dර ඇඳලා. ඉතින් ඔයාටත් ලයිට් එළි දිහා, චිත්\u200dර දිහා බලාගෙන, කෝපි බොන මිනිස්සු කතාකරන හිනාවෙන සද්දෙත් එක්ක මෙතන හැම තිස්සෙම වගේ ප්ලේ වෙන ට්\u200dරිපි මියුසික් එකක් අහගෙන පැය ගානක් වාඩි වෙලා ඉන්න ඕන වගේ හිතුනොත්, මම හිතන්නේ මෙතන ඒකටත් මරු.']
+user_reviews: []
+user_comments: []
+contact: Call 0572050580
+address: Passara Road, Ella.  
+directions: About 800m on Passara road from Ella junction, Umbrella Art Cafe is on your right side. 
+opening_days: ['MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY', 'SUNDAY']
+opening_hours: ['09:00 AM – 09:00 PM', '09:00 AM – 09:00 PM', '09:00 AM – 09:00 PM', '09:00 AM – 09:00 PM', '09:00 AM – 09:00 PM', '09:00 AM – 09:00 PM', '09:00 AM – 09:00 PM']
+cuisine: ['Between Rs. 1000 - Rs. 1500']
+price_range: Salad
+dishes: ['Fusion', 'European']
+overall_rating: 4
+quality_rating: 4
+service_rating: 5
+ambience_rating: 4
+near_by_places_names: ['Ella Flower Garden Resort', 'AK Ristoro (Ella)', 'Down Town Rotti Hut (Ella)', 'Grand Ella Motel', 'Nine Arches Bridge (Demodara)']
+near_by_places_addresses: ['3rd Mile Post, Passara Road, Ella', 'No. 37, Grand View, Passara Road, Ella', 'Ella Village Inn, Down Town Rotti Hut, Ella ', 'Wellawaya Road, Ella', 'Gotuwala, Demodara']
+near_by_places_distances: [' 186 m away', ' 332 m away', ' 725 m away', ' 727 m away', ' 762 m away']
+similar_places: ['Navro Beach Restaurant', 'IceBear Century Café (Negombo) ']

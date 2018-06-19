@@ -1,0 +1,23 @@
+url: https://www.yamu.lk/place/ak-ristoro/review-95860
+name: AK Ristoro (Ella)
+excerpt: A chic little Italian joint in Ella, which doesn't really focus just on Italian. They have an extensive tapas menu.
+yamu_review: ['AK Ristoro is a charming, brick-walled place with dim lighting and minimalistic interior comfortably furnished with simple wooden benches, chairs and tables. They dish up a variety of cuisines, including sushi, pastas, meats, and tapas — but strangely not the classic Italian pizza.', "We walked in for pizza,\xa0and were rather disappointed to find out that they didn't have any. After wondering if to walk back to the Ella Junction again (about 1.5 kms away), we decided to stick by our choice. I ordered a Teriyaki Chicken (Rs. 1,250), and the others split a Carbonara (Rs. 850) between them. I also asked for an orange juice (Rs. 250), which arrived quite quickly.", "Not too sweet, and quite fresh. For the speed in which it arrived at, we half wondered if it was plain old cordial and were pleasantly proved wrong soon as we sipped it. It wasn't watered down either, so that was great.", "The carbonara had mixed opinions from those who shared it, with one friend pointing out that it tasted\xa0a lot like pasta in cream sauce —\xa0basic milk+cheese \xa0that we make at home, and wasn't actual carbonara because that involves egg in the sauce and this didn't have it.", 'Both agreed that the sauce was still really quite good, despite the pasta being a bit more al dente than it ideally ought to have been. The flavour added by sauteed onions and the use of actual bacon got this dish a thumbs up.', 'The Teriyaki Chicken on the other hand was rather disappointing, what with the teriyaki sauce being predominantly soya sauce. The soya flavour was way too harsh, and it drowned out all other components including the flavour of the meat.', 'There was a very generous (rather disproportionate) dose of fries though, and a few parboiled beans and carrots. Definitely not worth the price.', 'We all shared a portion of Banana Fritters (Rs. 350) for dessert, which was crisp, piping hot, and quite well made.', "You get a decent amount of little banana shaped fritters for the price, drizzled with kithul honey. Not many places offers this as a dessert option, so it's nice to find it somewhere apart from an auntie's kitchen.", 'The service is incredibly friendly and (random observation)\xa0the guy who took our orders was unbelievably young (16? 17?!). He did a good job though, and the whole waitstaff shouted out a friendly goodnight as we finished our meal and walked out.', "Full points for the ambience, which is super chilled out. It's all basically cement, brickwork, and dark wood, and they carry off the decor wonderfully. It's got low lighting and a muted atmosphere, so this isn't the place you'd go out with a loud group of friends.\xa0", "AK Ristoro's got a beautiful space and okay food. Their service is friendly and cheery. Price-wise, you'd end up spending approximately about Rs. 2000\xa0per head, but almost all the touristy restaurants in the neighbourhood are\xa0going to cost you as much. Their service leaves almost nothing to be desired, and overall it's\xa0a good place to wind down a busy day."]
+user_reviews: []
+user_comments: []
+contact: Call 0572056776
+address: No. 37, Grand View, Passara Road, Ella 
+directions: 
+                            
+opening_days: ['MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY', 'SUNDAY']
+opening_hours: ['12:00 PM – 10:00 PM', '12:00 PM – 10:00 PM', '12:00 PM – 10:00 PM', '12:00 PM – 10:00 PM', '12:00 PM – 10:00 PM', '12:00 PM – 10:00 PM', '12:00 PM – 10:00 PM']
+cuisine: ['Italian']
+price_range: More than Rs.1500
+dishes: ['Pasta']
+overall_rating: 3
+quality_rating: 3
+service_rating: 5
+ambience_rating: 4
+near_by_places_names: ['Umbrella Art Cafe', 'Down Town Rotti Hut (Ella)', 'Grand Ella Motel', 'Cafe Chill', 'Dreamcafe & Guest House']
+near_by_places_addresses: ['Passara Road, Ella. ', 'Ella Village Inn, Down Town Rotti Hut, Ella ', 'Wellawaya Road, Ella', 'Wellawaya Road, Ella', 'Main Street, Ella.']
+near_by_places_distances: [' 332 m away', ' 397 m away', ' 447 m away', ' 452 m away', ' 457 m away']
+similar_places: ["Mona's Kitchen", 'La Trattoria']

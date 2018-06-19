@@ -1,0 +1,22 @@
+url: https://www.yamu.lk/place/gelato-by-roots/review-185190
+name: Gelato Italiano by Roots
+excerpt: Gelato is a new ice cream boutique at MC, managed by Roots.
+yamu_review: ["Gelato Italiano is Roots's attempt at serving up the sweet Italian confection we've all come to know and love. This new venture isn't as ", ' as their juices, unfortunately.', "They've got a menu advertising a plethora of different flavours as well as a selection of sorbets. Unfortunately, they only had about six different flavours of gelato on display when we went in.", '\r\n', "\r\nThis may be due to the fact that they're just starting out, so this gives them an excuse. However, it'd\xa0be better if they took the menu down until they're fully stocked so as to not shatter any high hopes.", "I initially asked for waffle cups but my statements went ignored and we got waffle cones instead. This is okay, but when you've got to review four ice creams and there's no room to sit in the overcrowded sweat-fest that is the food court, a drippy cone isn't such a good idea. Let alone four. \xa0", "The waffle cones are priced at Rs. 300 which is an okay price except for the fact that you're served a minuscule amount of ice cream in a slim cone. Is this fair? Only the flavours will tell.", "The lady behind the counter kept giving me the stink eye, but I'd do the same if some random hooligan started snapping pictures while I'm on the clock. Our orders were taken swiftly with no complication. We weren't given tissues though, so we had to reach over the counter and obtain a few for ourselves which probably irked her even more but what to do.", "The ambience is the same old MC food court that's been around since the dawn of time. The general hullabaloo of the screaming children and adults alike will forever be etched into those grimy, dimly lit walls. We stood outside by the stairs and ate which was much more enjoyable thanks to the lack of people and noise.\xa0", "You're actually better off paying around Rs. 480 for a double scoop at ", ' or forking over Rs. 250 for a superb Pistachio Kulfi at ', ". But if you're at MC and want to beat the heat, try Roots's Passion Fruit Gelato."]
+user_reviews: ["\n                                            Roots at Majestic City is very unclean and unhygienic. There were houseflies inside the place they make beverages etc… The lady who was putting the straws into the drinks did not wash her hand after sweeping the floor and touching the broom. It is a terribly unclean place. Somebody please do something to make them more hygienic when handling customer's food items and improve their overall cleanliness. This is a terrible place\n                                    "]
+user_comments: []
+contact: Call 011 2 506292
+address: 4/1A Majestic City, Station Road, Colombo 04 
+directions: It's right next to Roots's main outlet at the MC Food Court.
+opening_days: ['MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY', 'SUNDAY']
+opening_hours: ['10:00 AM – 08:30 PM', '10:00 AM – 08:30 PM', '10:00 AM – 08:30 PM', '10:00 AM – 08:30 PM', '10:00 AM – 08:30 PM', '10:00 AM – 08:30 PM', '10:00 AM – 08:30 PM']
+cuisine: ['Between Rs. 200 - Rs. 500']
+price_range: Ice Cream
+dishes: ['Fast Food']
+overall_rating: 3
+quality_rating: 3
+service_rating: 2
+ambience_rating: 1
+near_by_places_names: ['Majestic City', 'Cargills Food  City (Majestic City)', 'Luv Esence', 'Peppers (Majestic City)', 'Mlesna Tea Centre']
+near_by_places_addresses: ['Galle Road, Colombo 04', 'Majestic City ', 'No 1, Second Floor, Majestic City, Bambalapitiya', 'Galle Road, Colombo, Sri Lanka', '4 Majestic City, Colombo 4']
+near_by_places_distances: [' 0 m away', ' 0 m away', ' 4 m away', ' 12 m away', ' 14 m away']
+similar_places: ['Yacht Cabin - Global Towers Hotel']

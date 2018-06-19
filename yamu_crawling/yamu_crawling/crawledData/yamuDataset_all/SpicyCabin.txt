@@ -1,0 +1,22 @@
+url: https://www.yamu.lk/place/spicy-cabin/review-17135
+name: Spicy Cabin
+excerpt: We heard good things about Spicy Cabin, but our experience simply wasn't that good.
+yamu_review: ["\n                                                                \n                                                                                                                                    We heard good things about Spicy Cabin, but our experience simply wasn't that good.\n                                                                                                                            ", '\n                                                                                                                                    ', '\n                                                                \n                                                                                                                                    ස්පයිසි කැබින් නාරාහේන්පිට-නාවල පාරේ පිහිටි බත් කඩයකි. බොහෝ අසල්වාසීන් ඔවුන් ගැන ඉහළින් කතා කළත් අපි එහිදී ගත් දවල් ආහාරය නම් එතරම් හොඳ නැති, එහෙත් සාපේක්ෂව මිල වැඩි එකක් බව කිව යුතුය. චිකන් රයිස් සමග කරි පැකට් එකකටත්, චිකන් බුරියානි එකකටත් අපි රුපියල් 610ක් ගෙව්වෙමු. අනෙක් තැන්වල සාමාන්\u200dය මිල ගණන් මීට වඩා අඩුය. නමුත් අපිට මෙහිදී අමතරව සලාදයක් ලැබුණි.\n                                                                                                                            ']
+user_reviews: []
+user_comments: ['\n\n                                    Tried their stuff many times since its close to my office. Rice & curry is lousy and over priced. The buriyani is ok with roast chicken, so is the fried rice, but still too much for rs.280. They have Milk rice and green gram for breakfast as well as noodles & string hoppers which are good. The pol roti seemed a bit too hard when i tried it last. Chinese rolls are rs. 50. \n                                            ', "\n\n                                    Dear Yamu Team, spicy cabin food is too oily and doesn't taste so good. Pls pay a visit to Olive Garden restaurant in Nawala, they have healthy and yummy lunch buffet…  \n                                            ", '\n\n                                    Lousy Overpriced Food.\n                                            ', "\n\n                                    nadishika, I agree with you! … Olive garden's food is very tasty (gedara wage) and looks healthy (less oily). \n                                            ", "\n\n                                    Living away from home, this is the closest I have come to feeling like I'm having home cooked rice and curry. Clean, healthy and great taste. Also very reasonable pricing!", '\r\n\n                                            ', '\n\n                                    Olive garden is the best \n                                            ']
+contact: None
+address: Narahenpita Road, Nawala 
+directions: From Baseline Road, turn down the Nawala Road (opposite Kirula) and pass the bridge. It's after the curve, past the El Cardo. From Nawala take what is then called the Narahenpita Road up about 200 meters.
+opening_days: ['MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY', 'SUNDAY']
+opening_hours: ['07:00 AM – 09:00 PM', '07:00 AM – 09:00 PM', '07:00 AM – 09:00 PM', '07:00 AM – 09:00 PM', '07:00 AM – 09:00 PM', '07:00 AM – 09:00 PM', '07:00 AM – 09:00 PM']
+cuisine: ['Sri Lankan']
+price_range: Between Rs. 200 - Rs. 500
+dishes: ['Rice And Curry']
+overall_rating: 2
+quality_rating: 2
+service_rating: 3
+ambience_rating: 2
+near_by_places_names: ['Rice Box', 'Ace Pub', 'Steam Boat (Nawala)', 'Naniyori', 'Gorgeous Cakes']
+near_by_places_addresses: ['14, Narahenpita Road, Nawala.\r\n', '14 Narahenpita Road, Nawala', '14, Narahenpita Road, Nawala', '14, Narahenpita Road, Nawala', 'Nawala']
+near_by_places_distances: [' 104 m away', ' 200 m away', ' 201 m away', ' 201 m away', ' 238 m away']
+similar_places: ['Himsara Foods', 'Thulasi Hotel (Badulla)']

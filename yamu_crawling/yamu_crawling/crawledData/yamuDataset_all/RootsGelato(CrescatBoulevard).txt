@@ -1,0 +1,22 @@
+url: https://www.yamu.lk/place/roots-gelato-crescat-boulevard/review-213812
+name: Roots Gelato (Crescat Boulevard)
+excerpt: Root's version of artisanal Italian ice cream. They do a pretty good job.
+yamu_review: ['Roots has upped their game since we last reviewed their gelato place at ', '. They now have an outlet at the Crescat Food Court as well, so we decided to pay them a visit.', 'They have introduced a bunch of new flavors since our last time like Limone Biscotti, Pani Kaju and also Chocolate Biscuit Pudding (yes, you read it right). The prices differ according to the type of flavor.', 'The normal gelato starts at Rs. 280 per scoop, sorbets Rs. 250 and premium flavors Rs. 350.', "The Limone Biscotti (Rs. 350) was our favorite. If you're a Lemon Puff fan, you will definitely love this. The sweet and tangy Lemon Puff flavor was rich with a creamy texture. They even had biscuit bits inside as well.", "They certainly\xa0have improved on the Pistachio (Rs. 280). It's nothing like the one at the ", " but it came pretty close. Although I saw a few nuts on display, there weren't any\xa0pistachios in our serving, which was disappointing. Other than that, it was tasty and the flavors weren't overpowering as last time.", 'We also tried the classic Chocolate Gelato (Rs. 280) which tasted like a cheaper version of the\xa0Haagen Dazs Belgian Chocolate Ice Cream. It was decadent, creamy and very chocolatey.\xa0', "For those of you\xa0who don't know, the main difference between gelato and sorbet is that sorbet is dairy-free so it's made with\xa0sweetened juice\xa0or water.\xa0", 'The Dark Chocolate sorbet (Rs. 250) was so good!\xa0This is my personal favorite. The rich dark chocolate flavor was extremely strong with a creamy texture. It is well worth the price.\xa0', 'Their service is pretty basic, but it was efficient. The portions were quite big so it was no surprise that people were giving us judgy looks when we had more than 2 on our table.\xa0', "The ambience is the same old Crescat Food Court, which is a little better than MC. There's enough space for you to sit and enjoy your ice cream, amongst the never-ending chatter.\xa0", 'Roots has finally entered the gelato game with quality flavors including some localized ones. The prices are now reasonable and worth it. We highly recommend the Dark Chocolate sorbet and the Limone Biscotti.\xa0']
+user_reviews: []
+user_comments: []
+contact: Call 077 555 8334
+address: No 89, Galle Rd, Colombo 3. 
+directions: It's at the Crescat Food Court, towards the car park.
+opening_days: ['MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY', 'SUNDAY']
+opening_hours: ['09:00 AM – 10:00 PM', '09:00 AM – 10:00 PM', '09:00 AM – 10:00 PM', '09:00 AM – 10:00 PM', '09:00 AM – 10:00 PM', '09:00 AM – 10:00 PM', '09:00 AM – 10:00 PM']
+cuisine: ['Italian']
+price_range: Between Rs. 200 - Rs. 500
+dishes: ['Gelato']
+overall_rating: 4
+quality_rating: 4
+service_rating: 4
+ambience_rating: 3
+near_by_places_names: ['The Full Stop', 'Crescat Keells Super', 'The Brick Lane Cookie Company (Crescat)', 'Linen & Life', 'Vijitha Yapa (Crescat)']
+near_by_places_addresses: ['L-10 Crescat Boulevard, 75 Galle Road, Colombo 3', 'Crescat Boulevard, Galle Road, Colombo 3', 'Crescat Boulevard, Galle Road, Colombo 3', '20B, Level 2, Crescat Boulevard, Colombo 3', 'G 6A Crescat Boulevard, Colombo 3']
+near_by_places_distances: [' 13 m away', ' 14 m away', ' 14 m away', ' 14 m away', ' 14 m away']
+similar_places: ['Il Gelato (Duplication Road)', 'Earl’s Passikudah']

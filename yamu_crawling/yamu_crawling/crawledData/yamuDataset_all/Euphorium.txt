@@ -1,0 +1,22 @@
+url: https://www.yamu.lk/place/euphorium/review-42400
+name: Euphorium
+excerpt: Basically a place to have tea with a sweet Japanese auntie. They also sell well-chosen tea leaves. No food unless she gives you a biscuit.
+yamu_review: ["The lady running the place (Hisano) recommended the Tea Soda (Rs. 300), so I tried that. It's quite nice and refreshing. The tea arrives separated into three layers, the bottom is a sort of citrus fruit cordial, to middle is a berry tea and the top is soda. When you mix it up it's quite refreshing and nice. There honestly isn't that much on the menu at this tiny tiny place (different blends of tea basically, hot or iced) but what we had was nice. They have no food, but she did serve us some Japanese cookies.", 'They also sell packaged tea, which we bought and made at office. It was just Rs. 270 for this packet of Sweet Berries tea, which really tastes like berries.', "It's super cheap and we enjoyed it.", "This is basically someone's house off of Kynsey Road (at the Borella end, near the De Saram Rd junction).\xa0"]
+user_reviews: []
+user_comments: ["\n\n                                    The owner is Midori Peiris, she has a good background in the hospitality industry (both 5 star resorts and small tea saloons in Japan, in Sri Lanka the range is severely lacking; usually only Sencha & low grade Matcha powder available. There are some AMAZING other styles of green teas coming out of Japan). She's been operating this place since about 2010. Used to have some interesting tea blends with flowers, spices and herbs. Also some excellent Japanese style green teas (my favourite style of green teas come from Japan). Also had tea classes", "\n(I haven't been here for a few years, so ownership and types of teas could have changed)\n                                            "]
+contact: Call 772442594
+address: 3-14/C1 Kynsey Rd, Colombo 7 
+directions: This is on a tiny residential lane off of Kynsey Road, near the De Saram Rd. junction. You can either come De Saram near the National Hospital/Central Hospital or go all the way down Kynsey. Once you pass De Saram it's the first unnamed street (should say 3-17). Walk down and look for 3-14. There's a teddy bear inside.
+opening_days: ['MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY', 'SUNDAY']
+opening_hours: ['10:00 AM – 07:00 PM', '10:00 AM – 07:00 PM', '10:00 AM – 07:00 PM', '10:00 AM – 07:00 PM', '10:00 AM – 07:00 PM', '10:00 AM – 07:00 PM', '10:00 AM – 07:00 PM']
+cuisine: ['Japanese']
+price_range: Between Rs. 200 - Rs. 500
+dishes: ['Tea']
+overall_rating: 4
+quality_rating: 4
+service_rating: 5
+ambience_rating: 4
+near_by_places_names: ['Tropical Fresh', 'The Food Station', 'Snow Monkey (Food Station)', 'Wing Spot', 'Kottu & Co']
+near_by_places_addresses: ['No. 02, Rockwood Place, Colombo 07\r\n', "123 & 127 Vinyalankara Mawatha, Dean's Road Colombo 10\r\nColombo, Sri Lanka", 'No 123, Vinayalankara Mawatha, Colombo 10', '123 & 127 Vinayalankara Mawatha\r\nColombo, Sri Lanka\r\n', '123-127 Vinyalankara Mawatha, Colombo 10']
+near_by_places_distances: [' 431 m away', ' 551 m away', ' 557 m away', ' 560 m away', ' 576 m away']
+similar_places: ['Tokiwa Cafe']

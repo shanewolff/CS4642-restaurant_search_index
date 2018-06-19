@@ -1,0 +1,22 @@
+url: https://www.yamu.lk/place/pedlars-inn-pizzeria
+name: Pedlar's Inn Pizzeria
+excerpt: The Pedlar's Inn Pizzeria dishes out a few mediocre pies at costly rates.
+yamu_review: []
+user_reviews: []
+user_comments: []
+contact: Call 0912 225 333
+address: Pedlar St, Galle  
+directions: It's the little cafe adjoining Pedlar's Gelato.
+opening_days: ['MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY', 'SUNDAY']
+opening_hours: ['05:00 PM – 10:30 PM', '05:00 PM – 10:30 PM', '05:00 PM – 10:30 PM', '05:00 PM – 10:30 PM', '05:00 PM – 10:30 PM', '05:00 PM – 10:30 PM', '05:00 PM – 10:30 PM']
+cuisine: ['Italian']
+price_range: Between Rs. 1000 - Rs. 1500
+dishes: ['Pizza']
+overall_rating: 2
+quality_rating: 2
+service_rating: 3
+ambience_rating: 2
+near_by_places_names: ['Calorie Counter (Galle Fort)', "Poonie's Kitchen", 'The Heritage Cafe & Bistro', "Pedlar's Inn Cafe", 'The Living Room By TPV']
+near_by_places_addresses: ['56, Lighthouse Street, Galle Fort, Galle, Sri Lanka\r\n', '63, Pedlars Street, Fort, Galle', '61 Pedlar St, Galle 80000', '92, Pedlar Street, Galle Fort, Galle', '50A Lighthouse Street, Galle Fort, Galle']
+near_by_places_distances: [' 10 m away', ' 21 m away', ' 28 m away', ' 34 m away', ' 35 m away']
+similar_places: ["Harpo's Pizza (Mount Lavinia)", 'Santoré Bistro Italiano']

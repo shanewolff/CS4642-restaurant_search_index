@@ -1,0 +1,23 @@
+url: https://www.yamu.lk/place/icebear-restaurant/review-205836
+name: Icebair Restaurant
+excerpt: Located right on Negombo Beach, Icebair is a pleasant restaurant to while away the time with some decent food or drinks.
+yamu_review: ['Like the ', ", its smaller version in Negombo town, the Icebair restaurant is a cool place to chill out at, right on Negombo Beach. Even if\xa0it isn't the most inviting beach of the island for a swim, it's still nice to have a meal or drink by the sea\xa0when you happen to be in the area.", 'Initially built as a retirement home, the Swiss owner\xa0soon realised that the house\xa0was too big for him (rich people have their problems too you know) and converted it into a guesthouse called Icebear and a restaurant logically (or not) named Icebair.\xa0', 'The Swiss influence is clearly perceptible in the menu, which includes\xa0muesli, rösti\xa0and coffee made the way neighbouring countries\xa0Germany and Italy do it.', "Intrigued by the German coffee listed on the\xa0menu, we ordered a Pot of German Filtered Coffee (Rs. 390). Germans are more famous for their beers or schnapps and we now understand why. While it wasn't terrible,\xa0it certainly won't let us a lifelong memory. It was bland and a bit sediment-y. It tasted pretty much like a French pressed coffee.\xa0", 'True to its reputation and fame, the Italian Espresso (Rs. 390) satisfied us. Strong and aromatic, it was an honest espresso.\xa0', "We were more impressed by the presentation of the brews. They were served in an authentic Bialetti espresso maker and in a Moroccan looking teapot. I don't know what the\xa0pot was made of but it was bloody heavy!\xa0Pouring the German coffee happened to be an excellent morning exercise for our biceps.\xa0", 'We went for a very Swiss and healthy breakfast: Rösti (Rs. 1,100) and Chocolate Cake (Rs. 460).', "For those amongst you\xa0you aren't familiar with Swiss gastronomy, the rösti is this potato fritter which often comes\xa0with an egg on top.\xa0This one also contained\xa0bacon and cheese. Deliciously golden and crispy on the outside while still soft and moist inside, the\xa0rösti was really tasty and well executed. It was a bit on the oily side but overall it was very nice and made a\xa0hearty\xa0breaky option.", "On the other hand, the chocolate cake was a bad choice. The sauce was the only element that tasted like chocolate but wasn't good enough to save the stodgy and dry piece of cake. Keep away from this one.\xa0", "Staff is courteous and\xa0reserved. So discreet, it can be hard to find them at times. Service was not the most efficient. But being on one of this lazy day, we didn't mind and the\xa0wait\xa0actually enabled us to\xa0roam around the garden and to greet the\xa0turtles and my\xa0homonymous hen.", "The restaurant is located in a lush garden full of quirky decoration and fronting the beach. It's an ideal place to while away the hours\xa0in good company or, if not, with a good book.", 'We also appreciated the extra effort\xa0put into\xa0food and drink presentation as well as the quality tableware. It contributed to make our stop here feel pretty unique and exclusive.', "Icebair Restaurant is a great spot for a lazy weekend breakfast or some relaxed afternoon/evening drinks. Too bad the food and drinks don't quite live up to the ambience."]
+user_reviews: []
+user_comments: []
+contact: Call 031 223 80 97
+address: 95 Lewis Place, Negombo 
+directions: 
+                                    
+opening_days: ['MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY', 'SUNDAY']
+opening_hours: ['08:00 AM – 09:00 PM', '08:00 AM – 09:00 PM', '08:00 AM – 09:00 PM', '08:00 AM – 09:00 PM', '08:00 AM – 09:00 PM', '08:00 AM – 09:00 PM', '08:00 AM – 09:00 PM']
+cuisine: ['Western']
+price_range: Between Rs. 500 - Rs. 1000
+dishes: ['Eggs', 'Cakes', 'Bready', 'Burgers', 'Sandwiches', 'Coffee']
+overall_rating: 3
+quality_rating: 3
+service_rating: 3
+ambience_rating: 5
+near_by_places_names: ['The Icebair Restaurant', 'Peace Villa Restaurant', 'The Beach (All Suite Hotel)', 'The Vu', 'Hotel J (Negombo) ']
+near_by_places_addresses: ['Lewis Place 95, LK 11500, Negombo', '130, Lewis Place, Negombo', '249/15 Lewis Place, Beach Road, Negombo', '249/15 Lewis Place, Beach Road, Negombo', '331/1, Lewis Place, Negombo ']
+near_by_places_distances: [' 175 m away', ' 201 m away', ' 409 m away', ' 410 m away', ' 718 m away']
+similar_places: ['Navro Beach Restaurant', 'Urban Green']

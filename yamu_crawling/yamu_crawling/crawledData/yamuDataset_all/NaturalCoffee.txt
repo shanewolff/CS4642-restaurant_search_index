@@ -1,0 +1,22 @@
+url: https://www.yamu.lk/place/natural-coffee/review-74055
+name: Natural Coffee
+excerpt: Natural Coffee is one of Kandy's most popular coffee shops. They also have macha tea/ milk.
+yamu_review: ["Natural Coffee's a popular coffee stop a stone's throw away from the famed lake and the sacred temple in Kandy. It's super full most of the time, with nearly all the customers being non-local. They've got an interesting menu with things like cake made with 'mushed sweet potato, rich butter, and kithul honey', as well as your more staple espressos, macchiatos and whatnot, sans the cold drip and filter coffee.", "The drinks at Natural Coffee are served in really pretty, Japanese-esque porcelain ware. It's really pleasing, aesthetically, and is also quite a unique touch because you don't get that at any other coffeeshop around (disclaimer: as far as we're aware of). In terms of prices, it's in the average Colombo\xa0price range, like Rs. 400\xa0and above.", 'I tried a double macchiato (Rs. 420), which was beautifully presented. The aroma wafted up quite strongly as well, though I personally thought that there was a tad too much foamed milk.', "Taste-wise, it was intensely\xa0bitter.\xa0I didn't like it much because the\xa0bitterness was overwhelming. I barely ever add sugar\xa0to my coffee, but even after throwing a sachet in, the bitterness didn't abate.", 'However, their Maccha Latte — the only tea item in the cafe — was a treat. Priced at Rs. 500, this was matcha flavoured warm milk, with matcha-latte art atop.', "Once you drink through the green foam, you're left with warm, white milk which isn't bad because the matcha flavour lingers throughout. It's quite strong.", "We tried one of their 'baked goods' next, which was basically toasted sandwiches with interesting fillings. The sandwich we opted for was chocolate and banana, for 400 bucks.", "It arrived nice and warm, and the chocolate (betting it's Nutella here) was generously layered parallel with slices of banana. Unfortunately, you can't really see that in the picture.\xa0", 'For some reason, they give it with a tiny glass bowl of cubed pineapples.', 'Interesting.', 'Service is friendly and reasonably fast. The house was packed, but we got our orders in under 15 minutes. The staff are efficient and helpful, but they could perhaps do with another steward upstairs to help with the orders.', "For a coffee shop, the place is really fast-moving and crowded, and it's not exactly a place where you can sit and chill for hours because people keep coming in looking for seating. It's rather a cramped area, with an upstairs section as well. There's plenty of natural and artificial lighting though, with the front wall being made completely of glass, and bright white lights above each table.", "We'd recommend this place for a quick snack. I haven't tried anything else beyond the Maccha Latte or the Macchiato, so we'll let you know if their other coffees are any better next time we head around. It's a good place if you want to kill some time before catching twilight over the Kandy lake, or to kill away hours of the afternoon heat."]
+user_reviews: []
+user_comments: []
+contact: Call 0812200145
+address: 5 Temple Street, Kandy  
+directions: It's in the same area as the entrance to the Dalada Maligawa. You can't miss it if you walk towards Temple Street with your back to the lake.
+opening_days: ['MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY', 'SUNDAY']
+opening_hours: ['08:30 AM – 08:00 PM', '08:30 AM – 08:00 PM', '08:30 AM – 08:00 PM', '08:30 AM – 08:00 PM', '08:30 AM – 08:00 PM', '08:30 AM – 08:00 PM', '08:30 AM – 08:00 PM']
+cuisine: ['Western']
+price_range: Between Rs. 1000 - Rs. 1500
+dishes: ['Coffee']
+overall_rating: 3
+quality_rating: 3
+service_rating: 4
+ambience_rating: 3
+near_by_places_names: ['Empire Cafe', 'Kandy City Centre', 'World Spice', 'Sri Dalada Maligawa', 'The Last Drop']
+near_by_places_addresses: ['21 Temple Street Kandy Sri Lanka', '5, Dalada Veediya, Kandy', 'Level 4, Kandy City Center, Sri Wickrama Rajasinghe Mawatha, Kandy 20000', 'Sri Dalada Maligawa, Kandy', 'No. 37, Yatinuwara Street, Kandy.']
+near_by_places_distances: [' 19 m away', ' 230 m away', ' 246 m away', ' 287 m away', ' 313 m away']
+similar_places: ['Coco Veranda (Crescat Boulevard)', 'Java Lounge (Fort)']

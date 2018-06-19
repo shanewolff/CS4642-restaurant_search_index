@@ -1,0 +1,23 @@
+url: https://www.yamu.lk/place/spisia/review-221907
+name: Spisia
+excerpt: Spisia is one of the  most popular restaurants in Piliyandala area, that serves up some good Sri Lankanised Chinese food. 
+yamu_review: ['Spisia\xa0is one of the most popular eateries in Piliyandala. They do some decent Chinese food with a Sri Lankan twist, for an affordable price tag.', 'The menu at Spisia is quite extensive, but you’ll have a lot to choose from. We ordered a small portion of their Nasi Goreng at Rs. 640, Sweet and Sour Pork (Rs. 560) and Hot Butter Mushroom (Rs.440).', 'The Nasi Goreng was properly spiced and had a very bright yellowish appearance. Tossed in with some prawns and roasted chicken, the rice was cooked to perfection and wasn’t too oily either.', 'Crispy, crunchy, adequately spiced and flavorsome; the Hot Butter Mushroom was our instant favorite. The portion size was easily enough to feed three people, which was pretty decent for that price. It wasn’t good as the ones we got at ', ', or ', ' but it was on the tastier side. But still, it tasted\xa0re-fried, and not freshly made.', "The Sweet and Sour Pork dish at Spisia didn't impress us. We usually expect the sweet and sour pork to be a curry, with crispy bits of pork, beautifully blended with onions, bell pepper/capsicum in a savory pineapple sauce that anyone is guaranteed to love. But here, it was just some deep fried battered pork stripes, with a side of sweet and sour sauce. The batter was kind of soggy, and the pork was slightly undercooked. But the sauce itself was delightful, as it had the sweet and sour elements perfectly balanced in a very light texture.\xa0", 'Spisia provides a very comfortable and casual environment for their customers. The place is well-maintained and gives an ideal setting for family lunches/dinners, or a gathering of friends. They’ve got a TV hanging on the corner, so you can enjoy their food while catching up on a game, or listening to some music.', 'The service was a bit slow at the beginning, which was quite disappointing considering that we\xa0were the only customers there. We had to walk up to the billing counter to ask for a menu, and again to place the order as no one came to take it while we were sitting at our table.', 'Our order\xa0took around 15 minutes to arrive, and\xa0we noticed that they get a lot of take-out\xa0orders from the residents\xa0around.', "Spisia is a good restaurant to grab some Sri Lankanised Chinese food if you're in the area. We're not entirely unhappy about our experience, but the service and the food could be improved a bit."]
+user_reviews: []
+user_comments: []
+contact: Call 0777212125
+address: No. 75, Kottawa Road, Piliyandala. 
+directions: 
+                        
+opening_days: ['MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY', 'SUNDAY']
+opening_hours: ['11:00 AM – 03:00 PM', '06:00 PM – 11:00 PM', '11:00 AM – 03:00 PM', '06:00 PM – 11:00 PM', '11:00 AM – 03:00 PM', '06:00 PM – 11:00 PM', '11:00 AM – 03:00 PM', '06:00 PM – 11:00 PM', '11:00 AM – 03:00 PM', '06:00 PM – 11:00 PM', '11:00 AM – 03:00 PM', '06:00 PM – 11:00 PM', '11:00 AM – 03:00 PM', '06:00 PM – 11:00 PM']
+cuisine: ['Sri Lankan Chinese']
+price_range: Between Rs. 1000 - Rs. 1500
+dishes: ['Eggs', 'Fried Rice', 'Beef', 'Pork', 'Chicken', 'Fish', 'Cuttlefish', 'Fruit Juice']
+overall_rating: 3
+quality_rating: 3
+service_rating: 3
+ambience_rating: 4
+near_by_places_names: ["My Sister's Kitchen ", 'Sweet Layers', 'Shelter4Homeless', 'Fat Guy BBQ', 'Courage Compassion Commitment (CCC) Foundation']
+near_by_places_addresses: ['53, New City Garden, Gadabuwana, Piliyandala (Delivery) ', 'No. 02, Nilani Gardens, Bokundara, Piliyandala', 'No: 353 Welvita Road, Piliyandala', '12 Ferry Road, Piliyandala', 'National Cancer Institute, Maharagama']
+near_by_places_distances: [' 801 m away', ' 2.36 km away', ' 3.37 km away', ' 4.20 km away', ' 4.37 km away']
+similar_places: ['Samanala Restaurant', 'River View Restaurant']

@@ -1,0 +1,23 @@
+url: https://www.yamu.lk/place/meal-centre/review-9389
+name: Meal Centre
+excerpt: Clean, tidy and located on the side of the road with a broad car park, you can spot Damith from afar by its curling yellow logo. A welcome change from the abundance of Wonder Bakeries - really not so wonderful - Damith provides honest, tasty Sri Lankan food.
+yamu_review: ['\n                                                                \n                                                                                                                                    Clean, tidy and located on the side of the road with a broad car park, you can spot Damith from afar by its curling yellow logo. A welcome change from the abundance of Wonder Bakeries - really not so wonderful - Damith provides honest, tasty Sri Lankan food.\n                                                                                                                            ', '\n                                                                                                                                    ', '\n                                                                \n                                                                                                                                    පාර අයිනේ පිහිටි දමිත් මීල් සෙන්ටර් පිරිසිදුයි. පිළිවෙලයි. පුළුල් කාර්පාක් එකකුත් තිබෙනවා. කාර්යමණ්ඩලයත් වැදගත් පෙනුමයි. මිත්\u200dරශීලීයි. කැරකෙන කහ පැහැති වෙළඳ ලකුණෙන් ඔබට පහසුවෙන් එතැන සොයාගන්න පුළුවන්. එහි අව්\u200dයාජ, රසවත් ශ්\u200dරී ලාංකික ආහාර තිබෙනවා. මිළ සාමාන්\u200dය කඩේ මිළ. \n                                                                                                                            ']
+user_reviews: []
+user_comments: ['\n\n                                    Do they serve Halal Foods???\n                                            ', "\n\n                                    Check out 'Bilal' if livin around Kalubowila …\n                                            ", '\n\n                                    Damiths got Halal food.', '\r\n\n                                            ']
+contact: Call 0112282292
+address: 36 S. D. S. Jayasinghe Mawatha (Hospital Road), Kalubowila 
+directions: 
+                
+opening_days: ['MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY', 'SUNDAY']
+opening_hours: ['10:00 AM – 10:00 PM', '10:00 AM – 10:00 PM', '10:00 AM – 10:00 PM', '10:00 AM – 10:00 PM', '10:00 AM – 10:00 PM', '10:00 AM – 10:00 PM', '10:00 AM – 10:00 PM']
+cuisine: ['Sri Lankan']
+price_range: Between Rs. 200 - Rs. 500
+dishes: ['Rice And Curry']
+overall_rating: 3
+quality_rating: 3
+service_rating: 3
+ambience_rating: 3
+near_by_places_names: ['Cafe Vortex', 'Home Basics', 'Odel (Kohuwela)', 'Roots (Kohuwala)', 'Body by Kris']
+near_by_places_addresses: ['No 10, Sunethra Devi Road, Kohuwala, Nugegoda', '3rd Floor, Tisara Plaza, Dutugemunu Street, Kohuwela', 'No 135, Dutugemunu Street, Kohuwala', 'Tisara Plaza, Dutugemunu Street, Kohuwala', '4th Floor, 135, Dutugemunu street, Kohuwala']
+near_by_places_distances: [' 365 m away', ' 420 m away', ' 428 m away', ' 432 m away', ' 438 m away']
+similar_places: ['Eatrite', 'Aroma Restaurant']

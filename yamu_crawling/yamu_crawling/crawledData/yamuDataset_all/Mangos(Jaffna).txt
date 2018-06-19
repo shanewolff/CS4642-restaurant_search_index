@@ -1,0 +1,22 @@
+url: https://www.yamu.lk/place/mangos-jaffna/review-24817
+name: Mangos (Jaffna)
+excerpt: A pure vegetarian North & South Indian restaurant, cafe and bakery, Mangos is one of those famous Jaffna joints that warrants a visit and a mention.
+yamu_review: []
+user_reviews: []
+user_comments: ["\n\n                                    This place didn't impress me. Overpriced curry with very little meat! I would emphatically say a safer bet is Hotel Green Grass. Their rice lunch is incredible. Great value for money and very tasty. \n                                            ", "\n\n                                    ^^OOPS mistook this place for Cosy's. I haven't been to Mangos. ", '\r\n\n                                            ', '\n\n                                    Mangos is the best place you couod go to around Jaffna if you are into authentic jaffna cuisine. Ask for Wimalraj, humble waiter guy. Great food, great ambience. \n                                            ']
+contact: Call 777661083
+address: 359, Temple Road, Nallur, Jaffna 
+directions: Smack on Temple Road, Mangos is right down the road from the Nallur Kovil.
+opening_days: ['MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY', 'SUNDAY']
+opening_hours: ['08:00 AM – 10:00 PM', '08:00 AM – 10:00 PM', '08:00 AM – 10:00 PM', '08:00 AM – 10:00 PM', '08:00 AM – 10:00 PM', '08:00 AM – 10:00 PM', '08:00 AM – 10:00 PM']
+cuisine: ['Indian']
+price_range: Between Rs. 200 - Rs. 500
+dishes: ['Biriyani']
+overall_rating: 4
+quality_rating: 4
+service_rating: 5
+ambience_rating: 3
+near_by_places_names: ['Rio Ice Cream (Jaffna)', 'Green Grass Hotel and Restaurant', 'Aakshathai', 'Cosy Restaurant (Jaffna)', 'Jetwing Jaffna']
+near_by_places_addresses: ['448A, Point Pedro Rd, Jaffna', 'No. 33, Aseervatham Lane, Hospital Road, Jaffna\n', 'No. 60, Stanley Road, Jaffna\n', '272, Stanly Road, Jaffna.', '37 Mahatma Gandhi Rd, Jaffna']
+near_by_places_distances: [' 376 m away', ' 1.09 km away', ' 1.18 km away', ' 1.26 km away', ' 1.76 km away']
+similar_places: ['Dinemore (Kandy)', 'Grand Indian (Grand Hotel)']

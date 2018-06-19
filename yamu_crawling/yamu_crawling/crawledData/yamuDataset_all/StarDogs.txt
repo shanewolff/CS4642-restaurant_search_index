@@ -1,0 +1,22 @@
+url: https://www.yamu.lk/place/star-dogs/review-183635
+name: Star Dogs
+excerpt: Star Dogs is a hotdog stand that's been lurking at MC for a while now. We dropped by to see how they're doing.
+yamu_review: ["Amidst the throng of school children and families at\xa0MC's food court, there's a hotdog stand somewhere in the corner. Although nobody knows exactly how/when this stall popped up, it's been around for a while and doesn't seem to be declining. They used to be really good, but our recent visit left us a little disappointed.", 'This is going to be a really short review. Why? We got three different hotdog varieties and all three tasted and looked the same. I also made a stupid mistake and got the regular size when everyone I know recommended the jumbo sized hotdogs. Oy vey.', "The hotdog purchases made are as follows: Chilli Garlic (Rs. 240), Cheese & BBQ (Rs. 250) and Chilli Cheese (Rs. 280). Note that these are the prices for regular sized hotdogs. You'll have to pay about 50-100 LKR extra if you want the larger portions.", '\r\nEach of these hotdogs tasted exactly the same. There was nothing to differentiate one from the other and at one point we lost track of what we were eating.\xa0', "\r\nThe hotdogs come in a large, fluffy bun. The sausages are boiled so they don't taste like anything. They're generously drizzled with a mildly spicy sauce and onion bits. One of them had cheese on it but we couldn't be sure. That's literally all that was on there. Nothing else. We ate in silence.", "There's one guy manning the counter and he's quite fast. \xa0The speed isn't impressive when you're being served the same thing in large quantities. I suppose you'll just get used to it over time.\xa0", "\r\nThe stand is by the exit. It's bathed in red as a result\xa0of the glaring neon light they have on display. You can go there after 8 PM and pretend you're walking down NYC but neither the ambience, nor the hotdogs are as interesting.", "Honestly, I have no idea whether to recommend this place or not. For one, their portion sizes are large so the price is fair. On the other hand they lack variety and flavour which is annoying. I suggest this place for a shameful quick drop-by for lunch or whatever, but don't take your friends there.\xa0"]
+user_reviews: []
+user_comments: []
+contact: Call 071 777 5777
+address: Majestic City, Food Court, Bambalapitiya, Colombo 04 
+directions: It's at the food court at MC. If you're leaving, you'll see a small stand next to a neon light that says STAR DOGS. Walk past swiftly and don't look back.
+opening_days: ['MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY', 'SUNDAY']
+opening_hours: ['10:00 AM – 08:00 PM', '10:00 AM – 08:00 PM', '10:00 AM – 08:00 PM', '10:00 AM – 08:00 PM', '10:00 AM – 08:00 PM', '10:00 AM – 08:00 PM', '10:00 AM – 08:00 PM']
+cuisine: ['Western']
+price_range: Between Rs. 200 - Rs. 500
+dishes: ['Chicken', 'Bites']
+overall_rating: 2
+quality_rating: 2
+service_rating: 4
+ambience_rating: 2
+near_by_places_names: ['Caffe Vita', 'Larich Foods', 'The Pottery Shop', 'Frozen (MC Foodcourt)', 'P. G. Martin Wonderworld (Majestic City)']
+near_by_places_addresses: ['Food Court, Basement, Majestic City, Colombo 4', 'Level 3, Majestic City', '15, 2nd Floor, Majestic City, Colombo 04', 'Majestic City Food Court, Bambapapitiya\n', 'Majestic City, Galle Road, Bambalapitiya, Colombo 4']
+near_by_places_distances: [' 10 m away', ' 10 m away', ' 10 m away', ' 10 m away', ' 12 m away']
+similar_places: ['Java Lounge (Fort)', 'Machang (Pannipitya)']

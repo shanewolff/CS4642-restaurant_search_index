@@ -1,0 +1,22 @@
+url: https://www.yamu.lk/place/foody-goody/review-23962
+name: Foody Goody
+excerpt: Foody Goody, one of Good Market's favourites, sells totally natural, preservative/additive-free ice-cream made at home.
+yamu_review: []
+user_reviews: []
+user_comments: ['\n\n                                    I thought a tiny cup for 200 was far too expensive, but the mango one I tried was really good. \n                                            ']
+contact: Call 773411899
+address: Nuga Tree Car Park, Racecourse, Colombo 7 
+directions: The Racecourse is near Royal College. To get there either take the Royal College Road or turn off Independence Avenue onto Reed Ave.
+opening_days: ['MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY', 'SUNDAY']
+opening_hours: ['10:00 AM – 06:00 PM', '10:00 AM – 06:00 PM', '10:00 AM – 06:00 PM', '10:00 AM – 06:00 PM', '10:00 AM – 06:00 PM', '10:00 AM – 06:00 PM', '10:00 AM – 06:00 PM']
+cuisine: ['Western']
+price_range: Less than 200
+dishes: ['Ice Cream']
+overall_rating: 3
+quality_rating: 4
+service_rating: 3
+ambience_rating: 3
+near_by_places_names: ['Planet Fashion - Colombo Racecourse', 'The Origin - Colombo Racecourse', 'Promate World Stationer - Colombo Racecourse', 'Ramen Misoya Colombo', 'Laksala – Colombo Racecourse']
+near_by_places_addresses: ['Colombo Racecourse, Reid Avenue, Colombo 7', 'Colombo Racecourse, Reid Avenue, Colombo 7', 'Colombo Racecourse, Reid Avenue, Colombo 7', 'Colombo Racecourse, Colombo 07', 'Colombo Racecourse, Reid Avenue, Colombo 7']
+near_by_places_distances: [' 44 m away', ' 48 m away', ' 48 m away', ' 48 m away', ' 52 m away']
+similar_places: ['Navro Beach Restaurant', 'Earl’s Passikudah']

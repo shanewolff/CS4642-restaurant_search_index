@@ -42,7 +42,7 @@ class YamuSpider(scrapy.Spider):
         similar_places = response.css('div.topten strong::text').extract()
 
         file_name = name.replace(" ", "")
-        with open('crawledData/yamuDataSet2/' + file_name + '.txt', 'a+') as f:
+        with open('crawledData/yamuDataset_few/' + file_name + '.txt', 'a+') as f:
             f.write('url: {0}\n'
                     'name: {1}\n'
                     'excerpt: {2}\n'

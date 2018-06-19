@@ -1,0 +1,22 @@
+url: https://www.yamu.lk/place/himsara-foods/review-15625
+name: Himsara Foods
+excerpt: A great place to grab some good rice and curry, along with a killer pork curry.
+yamu_review: ['\n                                                                \n                                                                                                                                    Himsara is an average buth kade which only stands out for serving pork curry.\n                                                                                                                            ', '\n                                                                                                                                    ', '\n                                                                \n                                                                                                                                    පෝර්ක් රසයි, කරි රසයි දෙකම නූලට බැලන්ස්. වෙලාවට පාන් හරි පරාටා හරි තිබ්බෙ නැත්තෙ. නැත්නම් ඉතින් බත් පැත්තක, දෙන්න දෙසා බායි...!\n                                                                                                                            ', '\n                                                                                                                                    ', '\n                                                                \n                                                                                                                                    හිම්සර සාමාන්\u200dය බත් කඩයක්. ඒ ගොල්ලන්ගේ තියෙන වෙනස තමයි ඌරුමස් කරි එකක් දෙන එක.\n                                                                                                                            ']
+user_reviews: []
+user_comments: ['\n\n                                    Try the pork curry at Bakeps on the Narahenpita road, Also at B-leaf on the Boralesgamuwa road. Both rock.\n                                            ', '\n\n                                    I used to study at J-school which was right in front of Himsara. While the food was okay, there was one incident where a fellow student found maggots or a worm in his rice packet. There was also the incident where Himsara took on a contract for the cops to provide lunch packets for some event, and a group of them got food poisoning.\n                                            ', '\n\n                                    Shanuki (or anyone in the know), is this B-leaf on the 120 route, Boralesgamuwa?\n                                            ', '\n\n                                    Where exactly is Bakeps on the Narahenpita road?\n                                            ']
+contact: None
+address: 7 Chitra Lane, Colombo 5 
+directions: From Thimbirigasaya go either past Fife Road (heading east/out) or past Torrington (heading west). Kirula Road is the next big road. Himsara is near the corner.
+opening_days: ['MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY', 'SUNDAY']
+opening_hours: ['07:00 AM – 09:00 PM', '07:00 AM – 09:00 PM', '07:00 AM – 09:00 PM', '07:00 AM – 09:00 PM', '07:00 AM – 09:00 PM', '07:00 AM – 09:00 PM', '07:00 AM – 09:00 PM']
+cuisine: ['Sri Lankan']
+price_range: Less than 200
+dishes: ['Rice And Curry', 'Pork']
+overall_rating: 2
+quality_rating: 2
+service_rating: 2
+ambience_rating: 2
+near_by_places_names: ['Fresheta', 'Randoli Sports Club', 'The Store', 'Café Noir Blanc', 'Anim8']
+near_by_places_addresses: ['1, Chithra Lane, Colombo 05', '88, Kirula Road, Colombo 05', '27, Pathiba Road, Colombo 5', 'No. 216, Rev. Muruththettuwe Ananda Nahimi Mawatha, Colombo 5', '232 Thimbirigasyaya Road, Colombo 5']
+near_by_places_distances: [' 78 m away', ' 103 m away', ' 137 m away', ' 171 m away', ' 181 m away']
+similar_places: ['Thulasi Hotel (Badulla)', 'Rasembula']

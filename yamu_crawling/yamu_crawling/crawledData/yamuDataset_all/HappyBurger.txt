@@ -1,0 +1,22 @@
+url: https://www.yamu.lk/place/happy-burger/review-159723
+name: Happy Burger
+excerpt: කොත්තුව නම් බර්ගර් එකටත් වඩා පට්ට. චීස් දාලා තියෙනව මදි නොකියන්න. හැබැයි බර්ගර් එකේ තරම් චිකන් නෑ. ඒත් උණු උණුවෙ දුම් දාද්දි එන සුවඳට කටට කෙල උනන්නෙ ඉබේටම වගේ. හැබැයි ඉතින් මෙයාලගෙ චීස් කොත්තුවෙ සැර ගතිය සැහෙන්න අඩු නිසා රස පදමට චිලී පේස්ට් නම් ගලප ගන්න වෙයි.
+yamu_review: []
+user_reviews: ['\n                                            Food is bad and the service is too bad I came 2nd when 3 customers were there they first went with last and after that they started making my cheese kottu waited for 15 to 20min…!!! Never again there 👎🏼🤦\u200d♀️🙅\u200d♀️🙅\u200d♀️🙅\u200d♀️\n                                    ', '\n                                            Not bad\n                                    ']
+user_comments: ["\n\n                                    Theres sometimes a reason why we go to a McDonalds or a Burger King. Its service and knowing that there is some authority to complain to if things dont go our way. The reason why Burger's king (now Fazly's or whatever) is doing so well is even there the customer comes first. ", '\r\n', '\r\nHappy Burger on the other hand ONLY caters to the kids from the neighbouring institutes as they are probably the only ones who would rather pay a very tiny amount for ridiculous service. Went there on Sunday thinking we will give the smaller business places some money as opposed to the global players. Ordered two burgers, a side of wings and an iced milo. They said that it would take 10 minutes as they were about to start mopping. No problem! its a small place with a smaller team. Came back 15 minutes later to collect the order and they were only about to start mopping then. I asked them what about my food. They were like "ya after the moppng". I said its been over 10 minutes. And they said ya what to do! So went to burger king instead! \n                                            ']
+contact: Call 0113 193171
+address: 132A1, High Level road,  Nugegoda 
+directions: Near by ICBT Campus at Nugegoda
+opening_days: ['MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY', 'SUNDAY']
+opening_hours: ['09:00 AM – 10:00 PM', '09:00 AM – 10:00 PM', '09:00 AM – 10:00 PM', '09:00 AM – 10:00 PM', '09:00 AM – 10:00 PM', '09:00 AM – 10:00 PM', '09:00 AM – 10:00 PM']
+cuisine: ['Western', 'Sri Lankan Chinese', 'American']
+price_range: Between Rs. 200 - Rs. 500
+dishes: ['Rice', 'Meats', 'Beverages', 'Kottu', 'Fried Rice', 'Beef', 'Chicken', 'Fried Chicken', 'Burgers', 'Wraps']
+overall_rating: 3
+quality_rating: 3
+service_rating: 2
+ambience_rating: 3
+near_by_places_names: ["McDonald's (Nugegoda)", 'Devon Bakeaway (Nugegoda)', 'Hotel Top Form', "Domino's (Nugegoda)", 'Volsquare']
+near_by_places_addresses: ['1 Raymond Road, Nugegoda', 'Highlevel Road, Nugegoda, Sri Lanka', '150E High Level Road, Nugegoda', '161 High Level Rd, Nugegoda', '159, S De S. Jayasinghe Mawatha, Nugegoda\r\n\r\n']
+near_by_places_distances: [' 91 m away', ' 102 m away', ' 169 m away', ' 176 m away', ' 264 m away']
+similar_places: ['Nine 11 Restuarant & Coffee Shop', 'Dinemore (Kandy)']

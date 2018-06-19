@@ -1,0 +1,23 @@
+url: https://www.yamu.lk/place/the-heritage-cafe/review-211595
+name: The Heritage Cafe & Bistro
+excerpt: A pricer dining spot with the Colonial expat experience thrown in as a bonus, the food isn't exactly fantastic. 
+yamu_review: ["The 'Heritage' that the\xa0Heritage Cafe boasts of appears to be purely Colonial. Located within an old Dutch building, the spacious interior is decorated in a nice even monochrome color scheme, accentuated with the subtle burnt oranges used in the table fabrics.\xa0", 'I was there during the Galle Literary Festival and some of the work of the Art Trail was on its walls, mainly photographs of the coast and surf by Yanik Tissera and landscapes and street shots by Tavish Gunasena.\xa0They complemented the interior\xa0really well.\xa0', 'Aside from decor and art, the furniture and antiques scattered throughout the space also appear to have been well thought out in advance.\xa0', "We started with mains because we were hungry and didn't have time for shmancy things like starters. But much to our disappointment,\xa0the Fish and Chips (Rs. 1600)\xa0portion was quite small, so it felt like\xa0a starter anyway.", ' As we remember, servings here used to be larger a while back, perhaps an economic metaphor for the decline of the Colonial enterprise? Maybe I am pulling this thread a little too far.', 'The Heritage serves a range of international and fusion cuisine.\xa0The Nasi Goreng (Rs. 1700)\xa0was decent. Not too spicy but not too bland\xa0either. The\xa0Hummus (Rs. 880) didn’t taste fresh, perhaps too much fridge time.\xa0I wasn’t too enthusiastic about the bread either.', 'The Tabouleh (Rs. 950) had couscous with\xa0a nice texture and the greens in it were fresh and had flavor. Again the pita bread wasn’t my thing. Too soft and yielding. But it might be yours.\xa0', 'The Grilled Fish (Rs. 1400) was great,\xa0with a soft texture. But the grilling could have been better, Is it too much to expect fish steaks to produce a less cooked middle with flesh that is marinated to perfection?\xa0It didn’t exactly make me feel like I was in white linen clothes eating the catch of the day on a cliffside at Dover, but it came close. Once again, the portion could have been bigger.', "The wrap we got,\xa0Honey Glazed Chicken (Rs. 950) was decent. The sautéed veggies created a munchy sensation on their way down, and the honey glazing just about made itself felt, though it almost didn't.", "The Signature Iced Tea (Rs. 300) transports you right into a planter's bungalow.\xa0Nice subtle flavors, the orange makes itself felt but the mint stays in the background.\xa0", 'We had the Passion Fruit Cheesecake (Rs. 400), it was\xa0decent, but again felt like it was brought from a fridge.', "The Heritage Cafe has got the Heritage bit down pat, but needs to work on the Cafe part. A little too overpriced for the quality/quantity of food you get, but if you like the space and what it invokes, I'd say check it out.\xa0"]
+user_reviews: []
+user_comments: []
+contact: Call 0912 246 668
+address: 61 Pedlar St, Galle 80000 
+directions: 
+                                    
+opening_days: ['MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY', 'SUNDAY']
+opening_hours: ['08:30 AM – 09:00 PM', '08:30 AM – 09:00 PM', '08:30 AM – 09:00 PM', '08:30 AM – 09:00 PM', '08:30 AM – 09:00 PM', '08:30 AM – 09:00 PM', '08:30 AM – 09:00 PM']
+cuisine: ['More than Rs.1500']
+price_range: Meats
+dishes: ['Fusion']
+overall_rating: 3
+quality_rating: 3
+service_rating: 4
+ambience_rating: 4
+near_by_places_names: ['Calorie Counter (Galle Fort)', "Pedlar's Inn Pizzeria", 'The Living Room By TPV', "Poonie's Kitchen", "Pedlar's Inn Cafe"]
+near_by_places_addresses: ['56, Lighthouse Street, Galle Fort, Galle, Sri Lanka\r\n', 'Pedlar St, Galle ', '50A Lighthouse Street, Galle Fort, Galle', '63, Pedlars Street, Fort, Galle', '92, Pedlar Street, Galle Fort, Galle']
+near_by_places_distances: [' 15 m away', ' 27 m away', ' 33 m away', ' 38 m away', ' 55 m away']
+similar_places: ['Zephyr Talalla', 'Miyon']

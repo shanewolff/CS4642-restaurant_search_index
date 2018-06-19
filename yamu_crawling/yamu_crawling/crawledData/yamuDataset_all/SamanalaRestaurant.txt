@@ -1,0 +1,22 @@
+url: https://www.yamu.lk/place/samanala-restaurant/review-146285
+name: Samanala Restaurant
+excerpt: Affordable (hence usually crowded) place to have a drink in Pitakotte. 
+yamu_review: []
+user_reviews: []
+user_comments: ['\n\n                                    You should not be promoting drunk driving on the site.\n                                            ', '\n\n                                    අලුත් යමු සයිට් එක නම් මෙලෝ රහක් නෑ. මේක පාවිච්චි කරන්න වෙනම විකි එකක් ඕන. Anyway, you know what you are doing.\n                                            ']
+contact: Call  011 2 779660
+address: Pitakotte - Talawatugoda Rd, Sri Jayawardenepura, Kotte 
+directions: At the Kimbulawala junction.
+opening_days: ['MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY', 'SUNDAY']
+opening_hours: ['09:00 AM – 11:00 PM', '09:00 AM – 11:00 PM', '09:00 AM – 11:00 PM', '09:00 AM – 11:00 PM', '09:00 AM – 11:00 PM', '09:00 AM – 11:00 PM', '09:00 AM – 11:00 PM']
+cuisine: ['Asian', 'Chinese', 'Sri Lankan', 'Thai', 'Pub Food', 'Sri Lankan Chinese', 'Malay']
+price_range: Between Rs. 500 - Rs. 1000
+dishes: ['Rice', 'Noodles', 'Eggs', 'Meats', 'Seafood', 'Pasta', 'Beverages', 'Fried Rice', 'Pork', 'Chicken', 'Fried Chicken', 'Fish', 'Fish And Chips', 'Cuttlefish', 'Fruit Juice', 'Alcoholic', 'Beer', 'Bites']
+overall_rating: 3
+quality_rating: 3
+service_rating: 3
+ambience_rating: 3
+near_by_places_names: ['Rasembula', 'Spinner', 'Rakna Lanka (Diyawanna Kotthu Hut)', 'Chasis', 'Atrium Restaurant ']
+near_by_places_addresses: ['Kimbulawala junction,Pitakotte road\r\nMadiwela', '479, Thalawatugoda Road, Kibulawela, Madiwela', 'No. 545A, Madiwela Road, Thalawathugoda', '571/3Madiwela road,Thalawathugoda', '571/3, Madiwela Road, Thalawathugoda']
+near_by_places_distances: [' 54 m away', ' 64 m away', ' 275 m away', ' 468 m away', ' 492 m away']
+similar_places: ['Navro Beach Restaurant', 'The Delicacy Top']

@@ -1,0 +1,22 @@
+url: https://www.yamu.lk/place/hondahitha-the-curd-shop/review-162761
+name: Hondahitha - The Curd Shop
+excerpt: Hondahitha is name synonymous with great curd around the Colombo suburbs. This is their little cafe in Kohuwala which has some great waffles for cheap.
+yamu_review: ['\n                                                                \n                                                                                                                                    If you say “Hondahitha” to a Sri Lankan the first thing that they will be reminded of is “Dosthara Hondahitha”, but around Nugegoda it’s also the name of a very popular brand of curd\n                                                                                                                            ', '\n                                                                                                                                    ', '\n                                                                \n                                                                                                                                    නුගේගොඩ පැත්තෙ යන එන මනුස්සයෙක් නං දොස්තර හොඳහිතටත් වැඩිය හොඳට හොඳහිත මී කිරි දන්නවා ඇති.\n                                                                                                                            ']
+user_reviews: ['\n                                            The kitul treacle is absolutely briliant \n                                    ', '\n                                            ', '\n                                    ', '\n                                            Best curd in the country Full Stop ! \n                                    ']
+user_comments: ['\n\n                                    I DO NOT BELIEVE THE TREACLE SOLD BY THEM IS GENUINE, AS THE GENUINE KITHUL TREACLE CAN NOT BE BLACK IN COLOUR. IT MUST BE GOLDEN BROWN IN COLOUR. THE BROWN COLOUR CAN BE DARK OR LIGHT DEPENDING ON THE AGE OF KITHUL FLOWER. THE KITHUL TRACLE SOLD BY THEM IS MIXED TO SATISFY THE CUSTOMER BELIEF THAT, KITHUL TREACLE IS BLACK. THEREFOR, THEY NEED TO DO SO TO MARKET IT.', '\r\nIT IS SAME WITH NELLI SYRUP. NELLI SYRUP IS BROWN {KAHATA PATA}. BUT, WHAT IS SOLD IS GREEN. IT IS MIXED, TO SATISFY THE CUSTOMERS WRONG BELIEF THAT, NELLI SYRUP SHOULD BE GREEN. THEREFOR, THEY NEED TO DO SO TO MARKET IT.\n                                            ', '\n\n                                    I used to go to the Hondahita at pitakotte and it was amazing. \n                                            ', '\n\n                                    Hondahita \n                                            ', '\n\n                                    Taste wise their curd and treacle are the best you can find in town but you have to understand that it  is not genuine buffalo milk  curd and kithul treacle which is a fact. They use other sources of milk and as a previous comment indicated the treacle is mixed with suger as well.  \n                                            ']
+contact: Call 011 4 487123
+address: 135, Dutugemunu Street, Kohuwala 
+directions: The shop is inside and at the back of the giant building that houses ODEL, Keels Super and some other stores. Just come down Dutugemunu Street. You can't miss it.
+opening_days: ['MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY', 'SUNDAY']
+opening_hours: ['07:30 AM – 08:30 PM', '07:30 AM – 08:30 PM', '07:30 AM – 08:30 PM', '07:30 AM – 08:30 PM', '07:30 AM – 08:30 PM', '07:30 AM – 08:30 PM', '07:30 AM – 08:30 PM']
+cuisine: ['Sri Lankan', 'American']
+price_range: Between Rs. 500 - Rs. 1000
+dishes: ['Sweets', 'Waffles', 'Coffee']
+overall_rating: 3
+quality_rating: 4
+service_rating: 4
+ambience_rating: 3
+near_by_places_names: ['Home Basics', 'Body by Kris', 'Odel (Kohuwela)', 'Roots (Kohuwala)', 'Cafe Vortex']
+near_by_places_addresses: ['3rd Floor, Tisara Plaza, Dutugemunu Street, Kohuwela', '4th Floor, 135, Dutugemunu street, Kohuwala', 'No 135, Dutugemunu Street, Kohuwala', 'Tisara Plaza, Dutugemunu Street, Kohuwala', 'No 10, Sunethra Devi Road, Kohuwala, Nugegoda']
+near_by_places_distances: [' 21 m away', ' 24 m away', ' 144 m away', ' 144 m away', ' 165 m away']
+similar_places: ['Down Town Rotti Hut (Ella)', 'Sameeha Family Restaurant']

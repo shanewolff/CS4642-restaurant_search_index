@@ -1,0 +1,22 @@
+url: https://www.yamu.lk/place/kamrose-restaurant/review-168563
+name: Kamrose Restaurant (Panadura)
+excerpt: පානදුර පැත්තෙ ගියපු වෙලාවක රසම රස කෑම ටිකක් හිතේ හැටියට තෝරගෙන බඩ පැලෙනකන් කන්න කැම්රෝස් අවන්හල නම් කියාපු තැනක් තමයි.
+yamu_review: ['\n                                                                                                                                    ', '\n                                                                \n                                                                                                                                    හම්මේ… සුවඳ, දැනෙද්දි කටට කෙල උනනව. ඒ විතරක් නම් බැරියැ, රයිස් එකේ හතර දිසාවෙන් මතු වෙලා තියෙන බැදපු චිකන්, ඉස්සො, දැල්ලො, මාළු කෑලි පෙනෙද්දි කොහොම ඉවසන්නද අප්පා… \xa0\n                                                                                                                            ', '\n                                                                                                                                    ', '\n                                                                \n                                                                                                                                    චීලි පේස්ට් ටිකකුයි සෝස් ටිකකුයි දාපු බත් කටක් එක්ක දවටලා බැදපු දැල්ලො කෑල්ලක් හැපෙන කොට දිවට දැනෙන රස නම් කියලා නිම කරන්න බෑ.\n                                                                                                                            ']
+user_reviews: []
+user_comments: ['\n\n                                    Baila meke kama melo rahak na… mamath panadure thamai… \n                                            ', '\n\n                                    mama ada eye rata kanna mekata giya.chiken cheese kothtuwak gaththe….eeeyaaa.ake thibune chicken katu witharai. cheese rasak wath ne. kema nam harima sawuthui.aththatama mama mekata giye me web site ake thiyana article aka dekala. athtatama mata hithenne yamu adminla me kada walata kade yanawa kiya witharai\n                                            ', '\n\n                                    kamrose restaurant eke branch ekak thiyenawa kaluthara…eketh kama godak quality…panadureth kama rasae…man kama ganne kamrose eken witharae…good restaurant…good luck\n                                            ', '\n\n                                    ඇත්තටම හොද restaurant එකක්\n                                            ', '\n\n                                    සෑහෙන්න අපිරිසිදුයි. කෑමත් ජරාව. එක දවසක් මම Mongolian sea food rice එකක් අරන් දවල්ට කලා කාපු වෙලෙ ඉදන් ඈගට හරි  නෑ. රෑ කාපුව ඔක්කොම වමනෙ දෑම්මා. \n                                            ']
+contact: Call 038 2232021
+address: Galle Road, Panadura 
+directions: If you are coming on Galle road from Colombo side it's just 100m ahead from Panadura base hospital on your right hand side
+opening_days: ['MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY', 'SUNDAY']
+opening_hours: ['11:00 AM – 09:00 PM', '11:00 AM – 09:00 PM', '11:00 AM – 09:00 PM', '11:00 AM – 09:00 PM', '11:00 AM – 09:00 PM', '11:00 AM – 09:00 PM', '11:00 AM – 09:00 PM']
+cuisine: ['Chinese']
+price_range: Between Rs. 500 - Rs. 1000
+dishes: ['Noodles', 'Seafood', 'Fried Rice', 'Fried Chicken', 'Cuttlefish']
+overall_rating: 3
+quality_rating: 4
+service_rating: 3
+ambience_rating: 2
+near_by_places_names: ['Mango Mango Indian Restaurant', 'Lak Rasa Caterers ', 'King Chef Restaurant ', 'Shangahi Restaurant', 'Navro Beach Restaurant']
+near_by_places_addresses: ['219, Galle Road, Panadura', '236, Galle road, Walana, Panadura', '189,Galle RoadPanadura', 'No. 27\r\n7th Crossroad Street\r\nPanadura', 'No: 40, Beach road, Panadura']
+near_by_places_distances: [' 364 m away', ' 558 m away', ' 573 m away', ' 779 m away', ' 853 m away']
+similar_places: ['Asian Kitchen', 'Navro Beach Restaurant']

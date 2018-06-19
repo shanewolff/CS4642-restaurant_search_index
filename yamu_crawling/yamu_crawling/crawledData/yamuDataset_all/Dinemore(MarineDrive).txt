@@ -1,0 +1,22 @@
+url: https://www.yamu.lk/place/dinemore-marine-drive/review-26868
+name: Dinemore (Marine Drive) 
+excerpt: Dinemore in Wellawatte by the sea has got their signature oozing-mayo subs and burgers, with a relaxing view of the ocean.
+yamu_review: ['\n                                                                \n                                                                                                                                    Dinemore in Wellawatte by the sea has got their signature oozing-mayo subs and burgers, with a relaxing view of the ocean.\n                                                                                                                            ', '\n                                                                                                                                    ', '\n                                                                \n                                                                                                                                    ඒ වුනාට Dinemore sub නම් කොච්චර කෑවත් මේ දුන්නොත් මේ කන්න පුළුවන් Sub ජාතියක් තමයි.\n                                                                                                                            ']
+user_reviews: ['\n                                            You will find that this outlet has the most number of items on their food list. They have introduced a couple of new things last month and has even gone into kotthu with their new "Roti Mix" Dish range!', '\n\n                                    ', "\n                                            Love the location. The service, however, is so slow you might as well wait for the next ice age while you're at it. \n                                    "]
+user_comments: ['\n\n                                    Dinemore Wellawatte is their best outlet…The subs are large with good filling….the subs are fresh too….however, the same cannot be said for the Nugegoda outlet…the subs are horrible in that place…the subs are stale, hard and the filling is very less…', '\r\n\n                                            ', '\n\n                                    I have one word to summarise all Dinemore outlets "DIARRHEA"', '\r\n\n                                            ', '\n\n                                    100 for a Pepsi. No refills, small cups. Rip off!!!!!!!!\n                                            ', '\n\n                                    supperr food ah…\n                                            ', '\n\n                                    The Best Dine more outlets i would always visit is Wellawatte, Gangarama and the one close to Thurstan. Other places food sucks\n                                            ']
+contact: Call 0115661661
+address: Marine Drive, Colombo 6 
+directions: Find Boswell Place on Galle Road, it'll be somewhat opposite the Commercial Bank ATM and Hotel Sapphire. Go down through Boswell Place to Marine Drive and it's right there on the left.
+opening_days: ['MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY', 'SUNDAY']
+opening_hours: ['11:00 AM – 11:00 PM', '11:00 AM – 11:00 PM', '11:00 AM – 11:00 PM', '11:00 AM – 11:00 PM', '11:00 AM – 11:00 PM', '11:00 AM – 11:00 PM', '11:00 AM – 11:00 PM']
+cuisine: ['Western', 'Sri Lankan', 'Sri Lankan Chinese', 'Fast Food']
+price_range: Between Rs. 200 - Rs. 500
+dishes: ['Rice And Curry', 'Fried Rice', 'Burgers', 'Submarines', 'Shawarma']
+overall_rating: 3
+quality_rating: 3
+service_rating: 3
+ambience_rating: 3
+near_by_places_names: ['Copper Chimney', 'Platinum Pier', 'Yaal Restaurant', 'Sweet Wishes by Vish', 'Chola Authentic Indian Restaurant']
+near_by_places_addresses: ["Between Moor's Road and Boswell Place, Marine Drive, Wellawatte", '61, Moors Road, Marine Drive, Wellawatta, Colombo 06', 'No 56 Vaverset Place, Colombo 6', "No. 5 Moor's Road, Colombo 6", '37, Lily Avenue, Colombo 6.']
+near_by_places_distances: [' 29 m away', ' 82 m away', ' 137 m away', ' 287 m away', ' 340 m away']
+similar_places: ['Dinemore (Kandy)', 'Capital City Food Court (Badulla)']
