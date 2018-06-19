@@ -1,0 +1,12 @@
+url: https://www.yamu.lk/place/seven-eleven-restaurant-bar/review-169868
+name: Seven Eleven Restaurant & Bar
+excerpt: A good place to booze with delicious food, pool games and calm chat. 
+yamu_review: []
+user_reviews: []
+user_comments: []
+contact: Call 011 4542881
+address: Seven Eleven Restaurant & Bar,
+No. 531,
+Capital Mall,
+Thalawathugoda 
+directions: At the first floor of Keels building.

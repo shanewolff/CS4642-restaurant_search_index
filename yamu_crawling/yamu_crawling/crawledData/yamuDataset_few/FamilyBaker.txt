@@ -1,0 +1,9 @@
+url: https://www.yamu.lk/place/family-baker/review-48454
+name: Family Baker
+excerpt: Family Baker is arguably the best mainstream bakery in Mount Lavinia. They've got a great selection of both savories and sweets, which have been consistently tasty time and time again.
+yamu_review: ["Family Baker is arguably the best mainstream bakery in Mount Lavinia. They've got a great selection of both savories and sweets, which have been consistently tasty time and time again.", "One thing they do particularly well are pies. These are priced between Rs. 80 - Rs. 100 for a sizeable portion. They're also quite accurate when it comes to the description of fillings. When they say chicken and mushroom or mutton pie, you're not going to be disappointed when you bite into it.", "If you're looking for quality baked goods in Mount Lavinia, Family Baker is a solid choice. Their pies, kimbula banis and white sauce rolls are all excellent choices."]
+user_reviews: []
+user_comments: ['\n\n                                    Description on the dot. excellent place!!', '\n\n                                            ', '\n\n                                    Unless I\'m mistaken "Family Baker" is a outlet owned by "Alankulama" which also owns "casserole". They have branches in Anuradhapura also. Maybe in Dambulla also. \n                                            ']
+contact: Call 0112733833
+address: 253, Galle Road, Mt. Lavinia 
+directions: From Colombo, head down the Galle Road till you get to Mount Lavinia (passing No Limit, the cemetery). Family Baker is at Family Super, which is right opposite the Lion Pub.

@@ -1,0 +1,9 @@
+url: https://www.yamu.lk/place/fresheta/review-45549
+name: Fresheta
+excerpt: Fresheta is a small juice bar at the top of Chithra Lane. They serve up some refreshing, tasty juices which really hit the spot on a scorching day.
+yamu_review: ['Fresheta is a small juice bar at the top of Chithra Lane. They serve up some refreshing, tasty juices which really hit the spot on a scorching day.', "We came across Fresheta by happenstance after having a hearty meal and some of the worst wine ever at Randoli Sports Club. It's a good thing it was just around the corner since it was slap bang in the middle of a warm day and we really needed to get the taste of that wine out of our mouths. Walking into Fresheta you get greeted by the aroma of fresh fruits which is just such a nice feeling.\xa0", 'The juice bar itself is actually a pretty tiny place, but not the worst place to sit and have a quick juice since the space is air conditioned. ', 'The service is fast and since they make the drinks in front of you, you can ask them to customize it by adding other fruits.']
+user_reviews: []
+user_comments: []
+contact: Call 0773382777
+address: 1, Chithra Lane, Colombo 05 
+directions: Fresheta is at the very top of Chithra Lane, as you turn in from Kirula Road.

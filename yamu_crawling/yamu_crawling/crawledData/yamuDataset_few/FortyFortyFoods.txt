@@ -1,0 +1,10 @@
+url: https://www.yamu.lk/place/forty-forty-foods/review-4538
+name: Forty Forty Foods
+excerpt: While the food at Forty Forty (a low-key lunchtime rice and curry spot tucked down a tiny alley opposite Unity Plaza on Galle Road) isn't much to write home about, the setting gives the restaurant a run-down charm.
+yamu_review: []
+user_reviews: []
+user_comments: ['\n\n                                    Ahhh, my daily lunch spot. You can get a fried rice (instead of the normal rice) and a fried fish for 150/-. The place also has that quintessential Sri Lanka concept of the more times they see you there and the friendlier you get with them, the noticeably larger your portions of food are.  \n                                            ', "\n\n                                    One of the best place to have normal rice n' curry in colombo. specially their fish rice pack comes with 2 pieces of fried fish n' it's tasty too. :D\n                                            ", "\n\n                                    Nice food. Whenever I've had a pack of rice from here, the rice has been freshly cooked and usually piping hot when eating (take away), despite it being atleast 30 - 45 mins since it was packed!", '\r\n\n                                            ', "\n\n                                    Hey guys, do you know if this place is still open? A friend of mine used to buy lunch from there but I was recently told it's not there anymore!\n                                            "]
+contact: Call 0786128851
+address: Galle Road (land-side), opposite Bambalapitiya Station Road, Colombo 4 
+directions: 
+                            

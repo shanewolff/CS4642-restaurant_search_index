@@ -1,0 +1,9 @@
+url: https://www.yamu.lk/place/gami-gedara/review-23391
+name: Gami Gedara
+excerpt: Healthy and tasty juices for Rs. 200.
+yamu_review: []
+user_reviews: []
+user_comments: ['\n\n                                    Awesome!\n                                            ']
+contact: None
+address: Colombo Racecourse, Colombo 7 
+directions: On Saturdays, check out the Racecourse via the Independence Square side or by heading from Vihara Maha Devi and down Reid Ave.

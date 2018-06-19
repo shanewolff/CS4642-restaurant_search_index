@@ -1,0 +1,9 @@
+url: https://www.yamu.lk/place/swyree/review-19908
+name: Swyree
+excerpt: Swyree is a little spot near Orr's Hill which serves a great Kottu and fried frice. East coast kottu is different and this place is worth a try.
+yamu_review: ["\n                                                                \n                                                                                                                                    Swyree is a little spot near Orr's Hill which serves a great Kottu and fried frice. East coast kottu is different and this place is worth a try.\n                                                                                                                            ", '\n                                                                                                                                    ', '\n                                                                \n                                                                                                                                    ස්වෛරී එයාලා ගැනම කියාගන්නේ චයිනීස් හෝටලයක් සහ අවන්හලක් බව. ඒත් ඒක ඇත්තටම කොත්තු හදන තැනක්. ත්\u200dරිකුණාමලේ, විශේෂයෙන්ම උප්පවේලි සහ නිලාවේලි වේගයෙන් උසස්වෙමින් පවතිනවා. ඉතින් එහෙ දේශීය කෑමත් විදේශකරනය නොවී ඉහළ මට්ටමකට එන එක දකින්නට ලැබීම හොඳයි.\n                                                                                                                            ']
+user_reviews: []
+user_comments: ["\n\n                                    What's frice ?\n                                            ", '\n\n                                    Chicken Kottu now is 400 Rs. and still great. Visited May 19, 2017.\n                                            ']
+contact: Call 778828411,715504432
+address: 50 Kandy Road, Linganagar, Trincomalee 
+directions: From Orr's Hill, take the Kandy Road away from town, it's before the petrol shed and across from the vegetables stand.

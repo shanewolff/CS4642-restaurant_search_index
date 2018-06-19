@@ -1,0 +1,9 @@
+url: https://www.yamu.lk/place/rasa-malaysia/review-28053
+name: Rasa Malaysia
+excerpt: Rasa Malaysia is a relatively new restaurant down the Mount Lavinia beach stretch, alongside common beach food names like Steam Boat and Loon Tao. The ambience by the beach is obviously awesome, and the food is alright - but we fell in love with their hot butter cuttlefish. 
+yamu_review: []
+user_reviews: []
+user_comments: ['\n\n                                    Rasa Malaysia is a part of Berjaya Hotel!!!!!!!!!!!!!!\n                                            ', "\n\n                                    The reviews were pretty good so we thought of trying this place. But I don't recommend this place to anyone. I never fuss about food but this place was just disappointing. The service was just horrible(not only he was slow, he got the order wrong and didn't even try to make it up or apologize).The food were dry and tasteless.the hot butter cuttlefish and battered prawns were dry and disappointing. The bill was handwritten, all prices were different than the menu. They've added like a 25% service charge or a tax. Anyway it was pointless arguing. I wish i saw a bad comment before going there so just want everyone to know that the place sucks.\n                                            "]
+contact: None
+address: Mount Lavinia beach, Off De Saram Road, Mount Lavinia 
+directions: From Galle Road, go down the road opposite Family Super Market (the one next to Odel), turn right, into Off De Saram Road till you reach the beach. It'll be a short walk towards your left.

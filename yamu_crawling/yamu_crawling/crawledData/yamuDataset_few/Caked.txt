@@ -1,0 +1,9 @@
+url: https://www.yamu.lk/place/caked/review-21922
+name: Caked
+excerpt: Caked is a home bakery specialising in french macarons, cupcakes and cakes. French macarons are notoriously difficult to master, but they do an excellent job.
+yamu_review: []
+user_reviews: []
+user_comments: ["\n\n                                    Had chocolate macaroons from caked… Excellent!! I'd go back definitely.\n                                            ", "\n\n                                    Had chocolate macaroons from caked… Excellent!! I'd go back definitely.\n                                            ", '\n\n                                    These are fabulous. Not too sweet, just right. They were served at private a meeting I attended.\n                                            ']
+contact: Call 0777809923
+address: Murugan Place, Colombo 6 
+directions: Caked currently does pick up. If you follow Havelock Road to where it forks (becoming High Level Road), then go to the right, past the Pizza Hut. Murugan Place is the second road to your right, just past Microimage.

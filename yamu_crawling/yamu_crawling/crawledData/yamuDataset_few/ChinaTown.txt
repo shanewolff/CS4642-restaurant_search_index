@@ -1,0 +1,9 @@
+url: https://www.yamu.lk/place/china-town/review-35082
+name: China Town 
+excerpt: China Town is a little restaurant on Marine Drive that serves big sloppy portions of spicy Sri Lankan-Chinese and even some Indian. 
+yamu_review: []
+user_reviews: ['\n                                            The service and food taste is very good but the only disappointing thing was the price in the menu and the price which they bill is different ', '\nI think they need to update their menu\n                                    ']
+user_comments: ['\n\n                                    The experience I have is quite different. We tried their biriyani but it was way off the standard. Also the condition of their 2 washrooms were horrible. I actually lost my appetite after visiting the washroom.  \n                                            ', '\n\n                                    Chami', '\r\n', '\r\nIs everything ok with you upstairs to try Biryani at a Chinese place ?\n                                            ', '\n\n                                    @eranga^^LMAO…epic!!\n                                            ', "\n\n                                    Isn't this place  closed now?\n                                            "]
+contact: Call 011 2 576 807
+address: 38, Sea Avenue, Marine Drive, Colombo 03 
+directions: Sea Avenue on Galle Road is near Nations Trust Bank and The Fab. Chinatown is on the street's Marine Drive end. 

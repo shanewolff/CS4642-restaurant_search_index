@@ -1,0 +1,9 @@
+url: https://www.yamu.lk/place/peace-villa-restaurant/review-34316
+name: Peace Villa Restaurant
+excerpt: Peace Villa is a little restaurant down Lewis Place, Negombo. The food was actually kind of underwhelming, but they serve a great glass of 'All Milkshake'.
+yamu_review: []
+user_reviews: []
+user_comments: []
+contact: Call 778 972 579
+address: 130, Lewis Place, Negombo 
+directions: Head down Lewis Place where the hotels are - it's opposite Angel Inn, near Peacock Pub

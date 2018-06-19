@@ -1,0 +1,10 @@
+url: https://www.yamu.lk/place/the-dutch-bank-cafe/review-13146
+name: The Dutch Bank Café
+excerpt: Nestled in a deserted corner of Trincomalee Harbor, The Dutch Bank Café, is the first luxury restaurant to be opened since the end of the troubles. 
+yamu_review: []
+user_reviews: ['\n                                            The name and setting makes you feel as though u r in for a DBUesque menu. Alas not! Only thing are the frikkadels and not sure they r genuine either. So it\'s your average cafe scene with the usual suspects like Nasi Goreng etc. Taste wise not the best - we tried the frikkadels & the "authentic" nasi goreng! Place is not cheap either - about 2k per head!', '\n\n                                    ', '\n                                            The food is not at all good. We had a pizza marinara which didnt taste at all like marinara. We also had the thai red curry wuich basically tasted like a sri lankan curry with some lemongrass in it. They also served a grilled seer fosh with something that was like string hoppers and again it was absolutely tasteless.', '\r\n\n                                    ']
+user_comments: []
+contact: Call 0262222377
+address: 88 Inner Harbour Road, Trincomalee, Sri Lanka 
+directions: 
+                                    

@@ -1,0 +1,9 @@
+url: https://www.yamu.lk/place/pedlars-inn-pizzeria
+name: Pedlar's Inn Pizzeria
+excerpt: The Pedlar's Inn Pizzeria dishes out a few mediocre pies at costly rates.
+yamu_review: []
+user_reviews: []
+user_comments: []
+contact: Call 0912 225 333
+address: Pedlar St, Galle  
+directions: It's the little cafe adjoining Pedlar's Gelato.

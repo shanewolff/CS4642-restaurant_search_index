@@ -1,0 +1,9 @@
+url: https://www.yamu.lk/place/ward-place-petti-kade/review-11407
+name: Ward Place Petti Kade
+excerpt: If you're around the ODEL junction (Lipton Circus), right next to the Eye Hospital there's a good petti kade. You can tell because it's busy - a sure sign of promising eats.
+yamu_review: ["\n                                                                \n                                                                                                                                    If you're around the ODEL junction (Lipton Circus), right next to the Eye Hospital there's a good petti kade. You can tell because it's busy - a sure sign of promising eats.\n                                                                                                                            ", '\n                                                                                                                                    ', '\n                                                                \n                                                                                                                                    ඔබ ඉන්නේ ලිප්ටන් වටරවුමේ හෙවත් ඔඩෙල් හංදියේ නම්, ඇස් රෝහල අසල ඉතා හොඳ පෙට්ටි කඩයක් තිබෙනවා. එතන කෑම හොඳ නිසා උදේට පෝලිම. \n                                                                                                                            ']
+user_reviews: []
+user_comments: ['\n\n                                    1985 is when we started going here. At the time, we use to order garlic fried rice and crabs. The crabs always to took a little time to prepare, but the wait was worth it. You get a heaped plateful of small crabs nicely curried.\n                                            ']
+contact: None
+address: In front of Eye Hospital, Ward Place, Colombo 7 
+directions: It's in front of the red and yellow Eye Hospital building, opposite side of Ward Place from ODEL. Lipton Circus roundabout.

@@ -1,0 +1,9 @@
+url: https://www.yamu.lk/place/dilans-crab/review-45323
+name: Dilan's Crab
+excerpt: A simple home cook that serves shelled crab - a real pleasure to eat. 
+yamu_review: ["Dilan's is a home cook that does crab without the shell. That's right. You can enjoy tasty crab meat without having to fight thru its protective exoskeleton. The product isn't cheap (Rs. 5,000 for a big tub, enough for four greedy people) but we think it's good value for money."]
+user_reviews: []
+user_comments: ['\n\n                                    Is it de-shelled crab that you mean yamu?\n                                            ', "\n\n                                    Is the order by weight or number of crabs? Couldn't see details - looks an ample portion though and for 5k, with the shelling done, that's very reasonable. \n                                            "]
+contact: Call 784709455
+address: Kelaniya (Delivery) 
+directions: Delivery

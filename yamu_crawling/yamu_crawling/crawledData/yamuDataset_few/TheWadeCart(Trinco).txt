@@ -1,0 +1,9 @@
+url: https://www.yamu.lk/place/the-wade-cart-trinco/review-13678
+name: The Wade Cart (Trinco)
+excerpt: I am obsessed with dhal-wade. Some months ago I was lucky to be served homemade wade, and my life has never been the same since. It’s a well known fact that few restaurants compare to Sri Lankan home cooking, and the home cooked wade I had made all of the wade I’ve bought at train stations seem like tasteless blocks of cardboard.
+yamu_review: []
+user_reviews: []
+user_comments: ["\n\n                                    The Sun doesn't set in trinco machan\n                                            ", '\n\n                                    the Earth is round and the harbour faces west machan\n                                            ', '\n\n                                    He must have meant sun rising machan\n                                            ']
+contact: None
+address: 110(ish) Post Office Road, Trincomalee 
+directions: It's next to the Shalinga Liquor Store on Post Office Road.

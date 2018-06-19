@@ -1,0 +1,9 @@
+url: https://www.yamu.lk/place/free-water/review-172835
+name: Free Water
+excerpt: There are two taps here that dispense free, drinkable water.
+yamu_review: ['It’s hot. You must be thirsty. There’s free water here.', 'Across from Independence Arcade, next to Yamaha, there’s a free water dispenser. You can stop your trishaw or car or feet or whatever and fill up a bottle from one of two taps. Please don’t drink directly from the taps.', "This is not a water fountain, it's a water dispenser.", "It's under a big tree, next to the Kuwait Embassy also. The tree keeps the water relatively cool. There's a cop station next to the Embassy so the water dispenser is also quite safe. If you're in the middle of a crime, however, you should probably not come here.\xa0", "There's nobody here except for two inanimate taps. They're a bit confusing. You can push them or turn them to obtain water. And something similar to stop the water. I got confused and water was spilling on my toes and I just pushed and turned frantically until it stopped.", "Most people don't seem to have this problem, like this guy, he did fine:", "The water is pretty good. It tastes like tap water. It's not cold but it's not hot either. It's just water.", "The water here is water, and it's free, so can't complain. If you're thirsty, we recommend Free Water."]
+user_reviews: []
+user_comments: ["\n\n                                    In past we had what is called a 'pinthaliya' in villages,its basically a free water dispenser maintained by the villagers. Not a new concept. Maybe a forgotten one.", '\r\nAnyway its a good deed.\n                                            ', '\n\n                                    Every places should put like that… \n                                            ']
+contact: None
+address: Next to Yamaha 
+directions: This is in front of Independence Arcade, on Bauddhaloka Mawatha

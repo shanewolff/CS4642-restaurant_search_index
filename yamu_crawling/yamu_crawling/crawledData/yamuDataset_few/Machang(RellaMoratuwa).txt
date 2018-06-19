@@ -1,0 +1,9 @@
+url: https://www.yamu.lk/place/machang-rella-moratuwa/review-120411
+name: Machang (Rella Moratuwa)
+excerpt: Cheap, yet not-so-dodgy place to sip a beer while staring at metro coastline of  Moratuwa.
+yamu_review: []
+user_reviews: ['\n                                            ', '\n                                    ']
+user_comments: ["\n\n                                    yes it's nice place. you must try seafood chop suey rice\n                                            "]
+contact: Call 0112645600
+address: No 16, Lady De Soyza Road, Uyana, Moratuwa. 
+directions: Turn to Uyana road from Moratuwa  Cross Junction and go until you see the sea.  Turn right and Machang is around 100m along the road, to your right. 

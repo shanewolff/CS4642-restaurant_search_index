@@ -1,0 +1,9 @@
+url: https://www.yamu.lk/place/mangos-jaffna/review-24817
+name: Mangos (Jaffna)
+excerpt: A pure vegetarian North & South Indian restaurant, cafe and bakery, Mangos is one of those famous Jaffna joints that warrants a visit and a mention.
+yamu_review: []
+user_reviews: []
+user_comments: ["\n\n                                    This place didn't impress me. Overpriced curry with very little meat! I would emphatically say a safer bet is Hotel Green Grass. Their rice lunch is incredible. Great value for money and very tasty. \n                                            ", "\n\n                                    ^^OOPS mistook this place for Cosy's. I haven't been to Mangos. ", '\r\n\n                                            ', '\n\n                                    Mangos is the best place you couod go to around Jaffna if you are into authentic jaffna cuisine. Ask for Wimalraj, humble waiter guy. Great food, great ambience. \n                                            ']
+contact: Call 777661083
+address: 359, Temple Road, Nallur, Jaffna 
+directions: Smack on Temple Road, Mangos is right down the road from the Nallur Kovil.

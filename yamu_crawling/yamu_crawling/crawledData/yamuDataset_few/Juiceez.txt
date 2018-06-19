@@ -1,0 +1,10 @@
+url: https://www.yamu.lk/place/juiceez/review-4321
+name: Juiceez
+excerpt: Juiceez is pretty good. The staff are quite sweet and obliging, and their fruit is fresh and generally high quality. The menu when compared to Roots, however, is limited. They just do juices, straight up. No mixes, smoothies or health drinks. 
+yamu_review: []
+user_reviews: []
+user_comments: ['\n\n                                    The best juice bar around (roots suck) if you had a late night best place to start your day i usually have the green orange juice(pani dodang) for hangovers and the tamarind for a cold .:)\n                                            ', '\n\n                                    I tried the orion city Juiceez outlet. They charged me 280 for a Green Apple juice. Wondering whether the price is right.\n                                            ', '\n\n                                    They have delivery but for more that 20 items itseems. thats bad, better if they can revise it.\n                                            ', '\n\n                                    Their fruit salad is far from "fresh" :(\n                                            ', "\n\n                                    The fruit salad is sometimes so biased that I wonder if I got the name right. Some days it's a papaya salad with a little fruit thrown in, some days it's a melon salad with some fruit thrown in…. I think it all depends on the person who makes it! They have no set standard in making fruit salad. Try your luck…\n                                            ", '\n\n                                    Juiceez is now fresheez. Juiceez closed now. Checkout CIC Fresheez in google maps.\n                                            ']
+contact: Call 0112507355
+address: Kassapa Road, Colombo 5, Sri Lanka 
+directions: 
+                                    

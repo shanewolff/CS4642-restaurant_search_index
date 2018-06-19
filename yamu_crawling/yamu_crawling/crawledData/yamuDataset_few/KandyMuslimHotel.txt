@@ -1,0 +1,10 @@
+url: https://www.yamu.lk/place/kandy-muslim-hotel/review-31067
+name: Kandy Muslim Hotel
+excerpt: Kandy Muslim Hotel is not a hotel, but it's a very popular stop for biriyani, kottu and the likes, down the main street at Kandy's center. It's a much bigger, cleaner version of a Colombo kottu kade, and the food is actually pretty good and doesn't cost a lot. 
+
+yamu_review: []
+user_reviews: ['\n                                            ', '\n                                    ']
+user_comments: ["\n\n                                    Visited this place two weeks back for dinner & it turned out soooo bad… we ordered two beef kottus &  1 chicken kottu (take away)… we were so dissapointed when we went back to the hotel & opened it…… There was very few peices of beef ( i hope the guy who cut the beef didn't cut his fingers) & for they have put a spoiled piece of chicken for the chicken kottu… we went here because yamu rated it… \n                                            ", "\n\n                                    That's too bad, Fernando. This place is usually good and we're not the only ones who have said it, unfortunately restaurants do have their bad days. :/\n                                            ", '\n\n                                    Today my birth day\n                                            ']
+contact: None
+address: Sri Dalada Veediya, Kandy 
+directions: It's almost the first building on Sri Dalada Veediya just after the Clocktower roundabout.

@@ -1,0 +1,9 @@
+url: https://www.yamu.lk/place/genghis/review-24443
+name: Genghis
+excerpt: One of Marine Drive's newer additions, Genghis is a Mongolian BBQ and Grill run by Don Stanleys caterers. It shares a premises and menu with the Fat Crab, and has a lovely view of the Indian Ocean and the coastal railroad.
+yamu_review: []
+user_reviews: []
+user_comments: ['\n\n                                    z t halal\n                                            ', '\n\n                                    Is this a halal restaurant?\n                                            ', "\n\n                                    I went in there on Saturday the 7th of June and the place looked extremely promising. It had a great atmosphere and the location was the best part about the place. Service wise, the people were great! Unfortunately everything went downhill from there. In all honesty I rather eat food that has been on the floor for 30 minutes than try their Mongolian rice again. I have no idea how you can mess up rice mixed with meat in Sri Lanka of all countries but miraculously, they somehow found a way. What’s worse than the actual food was how long they took to bring the food to the table. Mongolian rice usually takes 10 minutes (max) to be prepared but they took over 45 minutes and the place wasn't even full. Also they need to change their name to Genghis instead of Gengish because it sounds stupid and it makes people think that they might have actually misspelled Genghis. \n                                            "]
+contact: Call 727777755
+address: 53, Haig Road, Colombo 4 
+directions: It's on Marine Drive, near Majestic City.

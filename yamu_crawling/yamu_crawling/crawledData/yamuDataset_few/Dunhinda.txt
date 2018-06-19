@@ -1,0 +1,10 @@
+url: https://www.yamu.lk/place/dunhinda/review-3268
+name: Dunhinda
+excerpt: On the Attidiya Road, there’s a small spot that has the best vegetarian food I’ve had in Sri Lanka. Perhaps the best Sri Lankan food. For Rs. 150 you get unlimited rice, kos, pollos, eggplant, potato or whatever they have on offer, plus homemade achcharu, lunuthe and papadum.
+yamu_review: []
+user_reviews: []
+user_comments: ['\n\n                                    Do you have any comments on Flag & Whistle\n                                            ', '\n\n                                    Went there recently after reading your review, but they were not serving lunch anymore. Their soup tho was super. \n                                            ', "\n\n                                    Recommend their panni Kondai kavum. It's soaked in sugar syrup and therefore utterly soft and moist when you bite into it. NOT the healthiest, but then again not many sweets are. These guys are at the good market every Thursday near water's Edge. \n                                            ", "\n\n                                    ya they don't serve lunch :(\n                                            "]
+contact: Call 0112717211
+address: Attidiya Road, Ratmalana  
+directions: 
+                                    

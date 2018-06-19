@@ -1,0 +1,10 @@
+url: https://www.yamu.lk/place/colombo-courtyard-poolside/review-25293
+name: Colombo Courtyard Poolside
+excerpt: Colombo Courtyard's design and style are brilliant, as we've mentioned before in the hotel review. It's chic, it's tasteful, and a lot of it is upcycled. The food, on the other hand, leaves a lot to be desired. 
+yamu_review: []
+user_reviews: ["\n                                            well their food isn't quite dependable. Me and wife went there once and my pasta was wonderful while her lasagna was quite bad. Have to agree on the desert though. They do that one right. Plus their drinks are that great but quantity is attractive. We too had the issue with the bugs there's very little they can do anything about that anyway. \n                                    "]
+user_comments: ['\n\n                                    did you guys seriously pay for the undercooked pasta dish??\n                                            ', '\n\n                                    Hi Guys. is this place good for freelancer to eat and hang around all day with laptop?if not can you suggest places please\n                                            ']
+contact: Call 114645333
+address: Alfred House Road, Colombo 3 
+directions: 
+                                    

@@ -1,0 +1,10 @@
+url: https://www.yamu.lk/place/nihonbashi-honten/review-12504
+name: Nihonbashi Honten
+excerpt: Not just the city's best Japanese restaurant, but one of the city's most seminal eateries, full stop. 
+yamu_review: []
+user_reviews: ['\n                                            ', '\n                                    ']
+user_comments: ['\n\n                                    Was here just yesterday, they have a super lunch set menu with Tempura, sashimi, maki-sushi, miso as well as the best final touch - COFFEE JELLY!!! Wonderful! LKR 2400 was fully worth it!\n                                            ']
+contact: Call 0112323847
+address: 11 Galle Face Terrace, Colombo 3 
+directions: 
+                                    

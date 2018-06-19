@@ -1,0 +1,9 @@
+url: https://www.yamu.lk/place/reef-house-cafe/review-51070
+name: Reef House Cafe
+excerpt: Reef House Cafe is a small shack of a restaurant on Mount Beach. It's got an undeniably dodgy feel to it, but the food isn't terrible and they do serve booze. That plus the fact that they're open well into the night makes this a popular spot for a meetup.
+yamu_review: ["Reef House Cafe is a small shack of a restaurant on Mount Beach. It's got an undeniably dodgy feel to it, but the food isn't terrible and they do serve booze. That plus the fact that they're open well into the night makes this a popular spot for a meetup.", 'At this point I\'ve lost count of how many restaurants there are on Mount Lavinia beach but it seems that every time we go there we find yet another place that we haven\'t been to. Reef House Cafe, located at the far end of the beach comes across as one of those obvious "drinking spots". Food-wise they serve the usual Sri Lankan Chinese fare at some affordable prices with some pretty decent portions. ', "Like we mentioned earlier, Reef House Cafe is pretty much a shack that's been converted to a restaurant. They've got a few tables inside as well as a few more on the beach. It does tend to get quite warm during the day since you're relying on the sea breeze.", "While Reef House Cafe isn't what we'd call\xa0 lady friendly, it isn't a terrible spot to meetup with some friends. We wouldn't recommend having an entire meal here but some of their dishes like the fried pork would make for an awesome bite to go along with a cold beer."]
+user_reviews: []
+user_comments: []
+contact: None
+address: Mount Lavinia Beach (Down Siripala Road) 
+directions: The easiest way to get to Reef House Cafe is to turn into Siripala Rd from Galle Rd, and come all the way down to the beach.  Reef House Cafe is to the right as you enter the beach.

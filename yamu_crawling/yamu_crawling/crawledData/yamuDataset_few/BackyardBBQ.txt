@@ -1,0 +1,10 @@
+url: https://www.yamu.lk/place/backyard-bbq/review-31475
+name: Backyard BBQ
+excerpt: Consider yourself a bona fide carnivore? Well then Backyard BBQ is just what you're looking for. They're a barbecue specialist in Mt.Lavinia that does delivery and take-out. They've got a great selection of western barbecue at a pretty good price.
+yamu_review: []
+user_reviews: ['\n                                            As i know this is closed now\n                                    ', '\n                                            Have called this place on Friday and Saturday 19th and 20th, also visited on both days. No answers to calls, House shown in picture did not seem to be active at all. Do not think this place is in operation.\n                                    ']
+user_comments: ['\n\n                                    Does this place still exist? Coz I go that way for other things and the location shown on the map is a cemetery.  But I might have missed it if its just take out.\n                                            ', '\n\n                                    Where about are there located cause I live in attidiya and never seen them \n                                            ']
+contact: Call 0113012666
+address: 4/1 B4, Gamunu Mawatha, Aththidiya 
+directions: 
+                

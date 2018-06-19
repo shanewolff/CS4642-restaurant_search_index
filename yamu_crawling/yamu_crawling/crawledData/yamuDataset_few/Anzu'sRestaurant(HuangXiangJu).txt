@@ -1,0 +1,9 @@
+url: https://www.yamu.lk/place/anzus-restaurant-huang-xiang-ju/review-36396
+name: Anzu's Restaurant (Huang Xiang Ju)
+excerpt: Anzu's restaurant on Marine Drive (Colpetty) is a new and authentic Chinese eating house. While it may not suit everyone, it's a good option for those looking to experience Chinese home cooking.
+yamu_review: []
+user_reviews: []
+user_comments: ['\n\n                                    The food was very authentic and tasted quite good. But the portions were quite small and the cuttlefish was way too small. But overall it was a good experience and thinking of visiting again sometime soon :) \n                                            ', "\n\n                                    we happened to stumble into this place for dinner and I must say it seemed just like an eatery in Beijing. Its a very very acquired atmosphere, with the first whiff of everything Chinese when you open the door, you fall in love with it or you'd puke.", '\n', "\nwe truly truly fell in love with it and can't wait to go back!!\n                                            ", '\n\n                                    The food was quite good but the menu was confusing AF. The locals working there seemed even more perplexed as to what was going on…\n                                            ']
+contact: Call 0112554422
+address: No. 37, Palmyrah Avenue, Colombo 03 
+directions: Anzu's Restaurant is on Marine Drive right before Hotel Sun Hill and Palmyrah Av (even though it says it's on it).

@@ -1,0 +1,9 @@
+url: https://www.yamu.lk/place/choco-luv-pizza-delivery/review-33265
+name: Choco Luv Pizza Delivery
+excerpt: So among all the delivery joints thankfully cropping up in Colombo for the benefit of those of us who want to eat lazily at home, Choco Luv has made itself known as an unlikely contender in the realm of pizza delivery.
+yamu_review: []
+user_reviews: []
+user_comments: ['\n\n                                    Why do you even try from Choco LUV Disgusting Food\n                                            ']
+contact: Call 011 2 692 090
+address: 67A, Gregory's Road, Colombo 7 
+directions: It's delivery from their outlet on Gregory's Road. 

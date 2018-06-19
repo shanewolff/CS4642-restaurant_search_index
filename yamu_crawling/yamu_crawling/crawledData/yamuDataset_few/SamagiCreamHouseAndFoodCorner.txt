@@ -1,0 +1,9 @@
+url: https://www.yamu.lk/place/samagi-cream-house-and-food-corner/review-22258
+name: Samagi Cream House And Food Corner
+excerpt: Mirissa food options are somewhat lacking. If you're craving a solid rice and curry, this is the place.
+yamu_review: []
+user_reviews: ['\n                                            Best Rice & curry ,Fried Rice , Roti hut Noodles and pasta for best price. superb place in mirissa \n                                    ']
+user_comments: []
+contact: None
+address: Galle Road, Udupila, Mirissa 
+directions: Heading down the Galle Road (towards Matara), pass the beach access road, the Sri Lanka Coast Guard and I&I restaurant. It's on your left. If you pass Palm Villa you've gone too far.

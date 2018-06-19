@@ -1,0 +1,9 @@
+url: https://www.yamu.lk/place/suman-hotel/review-11193
+name: Suman Hotel
+excerpt: This little buth kade on Sri Saranankkara Road in Dehiwala is a hidden gem. It doesn't really have a signboard and seats only a cramped eight people, but the family running it serves up consistently tasty rice and curry. 
+yamu_review: []
+user_reviews: []
+user_comments: ['\n\n                                    Could please insert the full address, map or more landmarks to find the place? Guess this is just a review without any address. \n                                            ', '\n\n                                    Found it!\n                                            ']
+contact: None
+address: Sri Saranankkara Mawatha, Dehiwala 
+directions: It's between Bhathiya Mawatha and Hathbodiya Mawatha, on the east side. There's a road that leads to the Sri Anjaneyar temple on the west site, the kade is kinda opposite that.

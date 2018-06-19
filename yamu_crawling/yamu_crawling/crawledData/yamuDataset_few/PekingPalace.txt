@@ -1,0 +1,9 @@
+url: https://www.yamu.lk/place/peking-palace/review-35985
+name: Peking Palace
+excerpt: Peking Palace in Nawala serves up some decent Sri Lankanized Chinese cuisine at an accessible location.
+yamu_review: []
+user_reviews: ['\n                                            Tasty Food Good Service , Price - Not bad / Try Hot Butter Cuttle Fish\n                                    ']
+user_comments: ['\n\n                                    Try the whole crispy skin roast chicken which is like peking duck but chicken! this is ultra delish but they can get the order wrong some times and its very important to clarify.', '\r\n', '\r\nIt is one of the best roast chicken dishes you will try…', '\r\n', '\r\nAlso try the whole steamed fish with thai sauce - excellent…', '\r\n', '\r\nA custom order is steamed cuttle fish with thai sauce - very spicy raw chili hit!\n                                            ']
+contact: Call 0112808886
+address: No. 262/4, Nawala Road, Nawala 
+directions: Peking Palace is past the Nawala Junction and Arpico Home Concepts, right next to the Cargills Food City

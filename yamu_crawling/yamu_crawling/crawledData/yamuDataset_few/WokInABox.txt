@@ -1,0 +1,9 @@
+url: https://www.yamu.lk/place/wok-in-a-box/review-12424
+name: Wok In A Box
+excerpt: This place has a promising name, but the fried rice is not very good at all. Costs Rs. 150 for lunch, which includes rice, some vegetable thing, slices of pineapple and cucumber and some chicken fried within an inch of its life.
+yamu_review: []
+user_reviews: []
+user_comments: ['\n\n                                    I think there should be a segment called "nogihin imu!"  for such places in the yamu site:-D\n                                            ', '\n\n                                    Yes a blacklist saying NoYamu! :D\n                                            ', '\n\n                                    @Jani Good one :D\n                                            ', '\n\n                                    Not so fast! Koththu from this place is awesome. We come few kilometers just for the koththu. Owner is a jolly good person.\n                                            ', '\n\n                                    Yes, Kotthu and Pasta in here was good in taste and quantity both. well, we had a take-away dinner. They filled it fully!\n                                            ', '\n\n                                    "some vegetable thing" huh!\n                                            ']
+contact: None
+address: Union Place, Colombo 2 
+directions: Down Union Place, past Staple Street. Across from an HSBC.

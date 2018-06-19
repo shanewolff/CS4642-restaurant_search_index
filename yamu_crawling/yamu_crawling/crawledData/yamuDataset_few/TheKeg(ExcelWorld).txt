@@ -1,0 +1,10 @@
+url: https://www.yamu.lk/place/the-keg-excel-world/review-148175
+name: The Keg (Excel World)
+excerpt: A pub and restaurant located inside the Excel World. 
+yamu_review: []
+user_reviews: []
+user_comments: []
+contact: Call 0115555996
+address: 338, T.B Jayah Mawatha, Colombo 10.
+ 
+directions: This is right inside the Excel World. 

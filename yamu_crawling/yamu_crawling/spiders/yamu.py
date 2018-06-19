@@ -26,20 +26,20 @@ class YamuSpider(scrapy.Spider):
         contact = response.css('div.info')[0].css('div.time-range a::text').extract_first()
         address = response.css('div.info')[0].css('p::text').extract()[1]
         directions = response.css('div.info')[0].css('p::text').extract()[3]
-        open_html = response.css('div.info')[1].css('div.time-range span::attr(title)').extract_first()
-        opening_days = Selector(text=open_html).css('strong::text').extract()
-        opening_hours = Selector(text=open_html).css('body::text').extract()
-        cuisine = response.css('div.info')[1].css('p')[2].css('a::text').extract()
-        price_range = response.css('div.info')[1].css('p')[4].css('a::text').extract_first()
-        dishes = response.css('div.info')[1].css('p')[6].css('a::text').extract()
-        overall_rating = response.css('dl.dl-horizontal span::text').extract()[0]
-        quality_rating = response.css('dl.dl-horizontal span::text').extract()[1]
-        service_rating = response.css('dl.dl-horizontal span::text').extract()[2]
-        ambience_rating = response.css('dl.dl-horizontal span::text').extract()[3]
-        near_by_places_names = response.css('div.list-group li.list-group-item strong::text').extract()
-        near_by_places_addresses = response.css('div.list-group li.list-group-item div::text').extract()
-        near_by_places_distances = response.css('div.list-group li.list-group-item small::text').extract()
-        similar_places = response.css('div.topten strong::text').extract()
+        # open_html = response.css('div.info')[1].css('div.time-range span::attr(title)').extract_first()
+        # opening_days = Selector(text=open_html).css('strong::text').extract()
+        # opening_hours = Selector(text=open_html).css('body::text').extract()
+        # cuisine = response.css('div.info')[1].css('p')[2].css('a::text').extract()
+        # price_range = response.css('div.info')[1].css('p')[4].css('a::text').extract_first()
+        # dishes = response.css('div.info')[1].css('p')[6].css('a::text').extract()
+        # overall_rating = response.css('dl.dl-horizontal span::text').extract()[0]
+        # quality_rating = response.css('dl.dl-horizontal span::text').extract()[1]
+        # service_rating = response.css('dl.dl-horizontal span::text').extract()[2]
+        # ambience_rating = response.css('dl.dl-horizontal span::text').extract()[3]
+        # near_by_places_names = response.css('div.list-group li.list-group-item strong::text').extract()
+        # near_by_places_addresses = response.css('div.list-group li.list-group-item div::text').extract()
+        # near_by_places_distances = response.css('div.list-group li.list-group-item small::text').extract()
+        # similar_places = response.css('div.topten strong::text').extract()
 
         file_name = name.replace(" ", "")
         with open('crawledData/yamuDataset_few/' + file_name + '.txt', 'a+') as f:
@@ -52,19 +52,19 @@ class YamuSpider(scrapy.Spider):
                     'contact: {6}\n'
                     'address: {7}\n'
                     'directions: {8}\n'
-                    'opening_days: {9}\n'
-                    'opening_hours: {10}\n'
-                    'cuisine: {11}\n'
-                    'price_range: {12}\n'
-                    'dishes: {13}\n'
-                    'overall_rating: {14}\n'
-                    'quality_rating: {15}\n'
-                    'service_rating: {16}\n'
-                    'ambience_rating: {17}\n'
-                    'near_by_places_names: {18}\n'
-                    'near_by_places_addresses: {19}\n'
-                    'near_by_places_distances: {20}\n'
-                    'similar_places: {21}\n'
+                    # 'opening_days: {9}\n'
+                    # 'opening_hours: {10}\n'
+                    # 'cuisine: {11}\n'
+                    # 'price_range: {12}\n'
+                    # 'dishes: {13}\n'
+                    # 'overall_rating: {14}\n'
+                    # 'quality_rating: {15}\n'
+                    # 'service_rating: {16}\n'
+                    # 'ambience_rating: {17}\n'
+                    # 'near_by_places_names: {18}\n'
+                    # 'near_by_places_addresses: {19}\n'
+                    # 'near_by_places_distances: {20}\n'
+                    # 'similar_places: {21}\n'
                     .format(url,
                             name,
                             excerpt,
@@ -74,19 +74,19 @@ class YamuSpider(scrapy.Spider):
                             contact,
                             address,
                             directions,
-                            opening_days,
-                            opening_hours,
-                            cuisine,
-                            price_range,
-                            dishes,
-                            overall_rating,
-                            quality_rating,
-                            service_rating,
-                            ambience_rating,
-                            near_by_places_names,
-                            near_by_places_addresses,
-                            near_by_places_distances,
-                            similar_places
+                            # opening_days,
+                            # opening_hours,
+                            # cuisine,
+                            # price_range,
+                            # dishes,
+                            # overall_rating,
+                            # quality_rating,
+                            # service_rating,
+                            # ambience_rating,
+                            # near_by_places_names,
+                            # near_by_places_addresses,
+                            # near_by_places_distances,
+                            # similar_places
                     ))
 
         yield {
@@ -99,17 +99,17 @@ class YamuSpider(scrapy.Spider):
                 'contact': contact,
                 'address': address,
                 'directions': directions,
-                'opening_days': opening_days,
-                'opening_hours': opening_hours,
-                'cuisine': cuisine,
-                'price_range': price_range,
-                'dishes': dishes,
-                'overall_rating': overall_rating,
-                'quality_rating': quality_rating,
-                'service_rating': service_rating,
-                'ambience_rating': ambience_rating,
-                'near_by_places_names': near_by_places_names,
-                'near_by_places_addresses': near_by_places_addresses,
-                'near_by_places_distances': near_by_places_distances,
-                'similar_places': similar_places
+                # 'opening_days': opening_days,
+                # 'opening_hours': opening_hours,
+                # 'cuisine': cuisine,
+                # 'price_range': price_range,
+                # 'dishes': dishes,
+                # 'overall_rating': overall_rating,
+                # 'quality_rating': quality_rating,
+                # 'service_rating': service_rating,
+                # 'ambience_rating': ambience_rating,
+                # 'near_by_places_names': near_by_places_names,
+                # 'near_by_places_addresses': near_by_places_addresses,
+                # 'near_by_places_distances': near_by_places_distances,
+                # 'similar_places': similar_places
             }

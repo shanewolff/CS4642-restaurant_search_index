@@ -1,0 +1,9 @@
+url: https://www.yamu.lk/place/waterscape-kingsbury/review-24122
+name: Waterscape (Kingsbury)
+excerpt: The Kingsbury’s poolside restaurant, the Waterscape offers a pretty great view (for now) and al fresco dining. If you’re looking for a decent grill or a bit of fun fondue and have a bit of cash to spare, this place is worth it.
+yamu_review: []
+user_reviews: []
+user_comments: []
+contact: Call 112421221
+address: The Kingsbury Hotel, Janadhipathi Mawatha, Colombo 1. 
+directions: It's beside the Kingsbury pool.

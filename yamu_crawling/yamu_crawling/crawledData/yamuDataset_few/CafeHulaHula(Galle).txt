@@ -1,0 +1,9 @@
+url: https://www.yamu.lk/place/cafe-hula-hula-galle/review-35952
+name: Cafe Hula Hula (Galle) 
+excerpt: Cafe Hula Hula near the ramparts of Galle Fort serves good kottu, tasty seafood, and - yay! - we found great eclairs here. 
+yamu_review: []
+user_reviews: []
+user_comments: ['\n\n                                    A nice place, the food is good and well worth,hats off to the two guys who runs the place', '\r\nthey treat you nicely without bothering about the color of your skin.\n                                            ', "\n\n                                    Sigh. It's horrible that you even have to mention that skin colour won't affect your treatment :(\n                                            "]
+contact: Call 077 790 1282
+address: 29B, Rampart Street, Galle Fort, Galle 
+directions: It's just where Rampart Street meets Pedlar Street, opposite the rampart. 

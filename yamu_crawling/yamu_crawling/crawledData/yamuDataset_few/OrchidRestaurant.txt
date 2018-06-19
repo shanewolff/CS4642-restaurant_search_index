@@ -1,0 +1,9 @@
+url: https://www.yamu.lk/place/orchid-restaurant/review-12740
+name: Orchid Restaurant
+excerpt: if youre one of those who've not ventured further into Fort than a night at Dutch-Hos, this is a good place to start.
+yamu_review: []
+user_reviews: []
+user_comments: []
+contact: Call 0112446904
+address: 70 Chatham Street,  Colombo 1 
+directions: Exit from the back of the dutch hospital and walk up the lane that takes you past the Steuarts building and Avirate- you'll reach Chatham Street. Turn right its opposite Pagoda Tea Rooms.

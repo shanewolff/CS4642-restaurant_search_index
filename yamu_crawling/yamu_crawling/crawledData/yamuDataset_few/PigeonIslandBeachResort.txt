@@ -1,0 +1,10 @@
+url: https://www.yamu.lk/place/pigeon-island-beach-resort/review-20087
+name: Pigeon Island Beach Resort
+excerpt: If you want to get away from the more crowded Nilaveli Beach Resort and have a decent, affordable meal, Pigeon Island Beach Resort is a good spot. It had a great owner (RIP) and continues to have good, hospitable staff.
+
+yamu_review: ['\n                                                                \n                                                                                                                                    If you want to get away from the more crowded Nilaveli Beach Resort and have a decent, affordable meal, Pigeon Island Beach Resort is a good spot. It had a great owner (RIP) and continues to have good, hospitable staff.\r\n\n                                                                                                                            ', '\n                                                                                                                                    ', '\n                                                                \n                                                                                                                                    පිජන් අයිලන්ඩ් බීච් රිසෝට් කියන්නේ නිලාවේලි වල තියෙන අලුත්ම හෝටල් වලින් එකක් වගේම වැඩිම මහන්සියෙන් වැඩකරන එකක්. අපි එහෙ ගියා කෑම වේලකට. කෑම රසයි වගේම මිල දරාගන්නත් පුළුවන්. ඒ වගේම හොඳින් සේවාව සැලසුවා.\n                                                                                                                            ']
+user_reviews: []
+user_comments: ['\n\n                                    any reviews on their rooms? \n                                            ']
+contact: Call 0264920633
+address: 11th Milepost, Nilaveli, Trincomalee 
+directions: Take the road north out of Trinco town to Nilaveli. After the sign for Nilaveli Beach Resort you should see the Pigeon Island sign, it's around the 11th milepost. Turn right and then turn left as you get near the beach.

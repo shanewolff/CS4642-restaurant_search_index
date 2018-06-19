@@ -1,0 +1,9 @@
+url: https://www.yamu.lk/place/pink-sugar/review-33285
+name: Pink Sugar
+excerpt: Pink Sugar is a new home baker which remixes classic flavors like  Oreo, Ferrero Rocher and Irish cream.
+yamu_review: []
+user_reviews: []
+user_comments: ["\n\n                                    I love pink sugar's stuff. They are so delicious. You have to try them out. \n                                            ", '\n\n                                    hi, are they still in operation?', '\r\ndid they have an outlet some time back at the crescat foodcourt, between the two escalators?\n                                            ']
+contact: Call 077 3 772 433
+address: No. 3, Nandana Gardens, Colombo 4 
+directions: Pick up is from Nandana Gardens which is almost opposite the Bambalapitiya Flats, and after St Paul's Church Milagiriya. 

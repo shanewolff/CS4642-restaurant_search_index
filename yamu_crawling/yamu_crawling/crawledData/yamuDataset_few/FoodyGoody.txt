@@ -1,0 +1,9 @@
+url: https://www.yamu.lk/place/foody-goody/review-23962
+name: Foody Goody
+excerpt: Foody Goody, one of Good Market's favourites, sells totally natural, preservative/additive-free ice-cream made at home.
+yamu_review: []
+user_reviews: []
+user_comments: ['\n\n                                    I thought a tiny cup for 200 was far too expensive, but the mango one I tried was really good. \n                                            ']
+contact: Call 773411899
+address: Nuga Tree Car Park, Racecourse, Colombo 7 
+directions: The Racecourse is near Royal College. To get there either take the Royal College Road or turn off Independence Avenue onto Reed Ave.

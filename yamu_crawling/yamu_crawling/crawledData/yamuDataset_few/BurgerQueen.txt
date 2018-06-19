@@ -1,0 +1,9 @@
+url: https://www.yamu.lk/place/burger-queen/review-39562
+name: Burger Queen
+excerpt: If you thought you'd tried the entire local burger monarchy, think again, cause we just found Burger Queen. It may not blow your mind, but they've got some interesting additions along with the usual favourites.
+yamu_review: ["If you thought you knew all the burger royalty, think again. We just found Burger Queen. It may not blow your mind, but they've got some interesting additions along with the usual favs. It's on Saranankara Rd, in Dehiwala.", "Up until last week we honestly thought we'd covered all the ", " clones in and around Colombo, but lo and behold we found yet another in Burger Queen. Just looking through the menu we could tell that this was more or less entirely inspired by the success of the King, with favourites like the chicken charly and the cordon blue available along with some interesting additions like the chicken fanan (which we aren't sure is available at the former). Prices too are nearly identical with all of the burgers priced between Rs. 180 - Rs. 350. This comes with a side of fries which leave much to be desired.", "Next we tried out the double beef burger (Rs. 280). This was also comparable to Burger's King and ", '. The patty was grilled with a good mix of spices and an emphasis on the pepper. The rest of the elements were pretty much the same as the last, which we suspect is the case with the rest of the burgers as well. All things considered Burger Queen does a pretty decent take on Lankanized burgers.', "Burger Queen isn't re-inventing our local ghetto burgers. While we can't really speak for consistency, their stuff wasn't half bad."]
+user_reviews: []
+user_comments: []
+contact: Call 0771666641
+address: No. 98, Sri Saranankara Road, Kalubowila, Dehiwala 
+directions: Burger Queen is on Saranankara Rd before Sumandisi bakers, just past the Anjaneyar Temple turn off.

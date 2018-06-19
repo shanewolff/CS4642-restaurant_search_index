@@ -1,0 +1,11 @@
+url: https://www.yamu.lk/place/juiceez-battaramulla/review-15575
+name: Juiceez (Battaramulla)
+excerpt: It was my first time stepping into Juiceez in Battaramulla, or any of their branches for that matter. I was expecting nothing more than just a cash counter and a little stall serving juice - like they have at roots, but Juiceez is a lot more than just a juice shop. They’ve got fresh fruits, vegetables, jams, special types of rice, even plant seeds and specialized indoor plants are on display. 
+
+yamu_review: []
+user_reviews: ['\n                                            Try their Tamarind juice! Not sure if the battaramulla one has but the one in the galle highway place has and it was THE best drink i have ever had!\n                                    ']
+user_comments: ['\n\n                                    I think their Jawatte road outlet is the best one in Colombo. Very friendly and helpful staff. very efficient as well. I go there every weekend to buy my veggies and fruits. Staff is really good. Even at the times when the shop is crowded they try their best not to keep the customers waiting. Great place, juices are really good too. You can see how your juice is made. My favorites are watermelon and local orange. \n                                            ', "\n\n                                    I've been to many juice bars in colombo, this one is my favorite. Luckily I'll be working at a place next to this joint from next month, so guys be ready to serve me everyday :D\n                                            "]
+contact: Call 0112785480
+address: No 289/C Pannipitiya Road, Pelawatta, Battaramulla, 
+directions: 
+                                    

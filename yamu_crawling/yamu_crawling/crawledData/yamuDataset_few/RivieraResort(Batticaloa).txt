@@ -1,0 +1,9 @@
+url: https://www.yamu.lk/place/riviera-resort-batticaloa/review-22509
+name: Riviera Resort (Batticaloa)
+excerpt: Just across the Kallady Bridge in Batticaloa, the Riviera serves up a good rice and curry, as well as crab and other local specialities.
+yamu_review: []
+user_reviews: ['\n                                            I went there many years ago had the most amazing meal… of crab curry and string hoppers and  polos. The only negative we experienced was that before we could finish our meal the manager came and wanted us to hurry up and leave in a quite unpleasant manner. Doubt this would have happened in a restaurant in Colombo. Of course at that time this was the only decent place to stay in Batti and guess they could get away with it. But the food is so good I will still go there regardless of my negative experience.\n                                    ']
+user_comments: ["\n\n                                    Reveira Resort - Terrible Food….also the service.good is very terrible and it's ridiculous…they don't know how to satisfy the customers even. I do not recomond any one to have good from this place\n                                            "]
+contact: Call 652222164
+address: New Dutch Bar Road, Kallady, Batticaloa 
+directions: Cross the Kallady Bridge, take the first left and then follow the signs. It's in Batticaloa so you obviously need to get there first.

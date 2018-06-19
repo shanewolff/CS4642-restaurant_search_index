@@ -1,0 +1,9 @@
+url: https://www.yamu.lk/place/gecko/review-18938
+name: Gecko
+excerpt: Gecko is a restaurant/hotel located on the highly popular main strip of Arugam Bay. They have a great seafront location with chilled out seating and good food, but the service is terrible.
+yamu_review: []
+user_reviews: ["\n                                            The place has a good vibe. The owners were very nice to us and the food is good. Not really sure why the reviews have been so bad. It's definitely not terrible.\n                                    "]
+user_comments: ['\n\n                                    Try their Dairy-Free Ice Cream…… Simply magical! The chocolate one tastes like bounty <3\n                                            ', "\n\n                                    The owners are arrogant and don't care what the customers think about the service. They know they run a well-known venue. The rooms are over-priced and cramped (at least the one we had, moved out to another hotel with bigger rooms the next day). The rice and curry was great though. \n                                            ", "\n\n                                    Couldn't agree more with the review. Service is putrid and the prices a bit too high for arugam bay. the place is far too dark for my liking. afterall if you are on the beach, shouldnt the place have a bright and sunny atmosphere?\n                                            ", "\n\n                                    Haven't been here but they should really think about changing the name, Just reminds me of the horrible creature. \n                                            "]
+contact: Call 632248212/771591265
+address: Panama Road, Arugam Bay 
+directions: Going along Main Street, Gecko is just past Hideway, before Siam View.
