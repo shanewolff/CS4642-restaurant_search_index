@@ -41,53 +41,53 @@ class YamuSpider(scrapy.Spider):
         near_by_places_distances = response.css('div.list-group li.list-group-item small::text').extract()
         similar_places = response.css('div.topten strong::text').extract()
 
-        file_name = name.replace(" ", "")
-        with open('crawledData/yamuDataset_few/' + file_name + '.txt', 'a+') as f:
-            f.write('url: {0}\n'
-                    'name: {1}\n'
-                    'excerpt: {2}\n'
-                    'yamu_review: {3}\n'
-                    'user_reviews: {4}\n'
-                    'user_comments: {5}\n'
-                    'contact: {6}\n'
-                    'address: {7}\n'
-                    'directions: {8}\n'
-                    'opening_days: {9}\n'
-                    'opening_hours: {10}\n'
-                    'cuisine: {11}\n'
-                    'price_range: {12}\n'
-                    'dishes: {13}\n'
-                    'overall_rating: {14}\n'
-                    'quality_rating: {15}\n'
-                    'service_rating: {16}\n'
-                    'ambience_rating: {17}\n'
-                    'near_by_places_names: {18}\n'
-                    'near_by_places_addresses: {19}\n'
-                    'near_by_places_distances: {20}\n'
-                    'similar_places: {21}\n'
-                    .format(url,
-                            name,
-                            excerpt,
-                            yamu_review,
-                            user_reviews,
-                            user_comments,
-                            contact,
-                            address,
-                            directions,
-                            opening_days,
-                            opening_hours,
-                            cuisine,
-                            price_range,
-                            dishes,
-                            overall_rating,
-                            quality_rating,
-                            service_rating,
-                            ambience_rating,
-                            near_by_places_names,
-                            near_by_places_addresses,
-                            near_by_places_distances,
-                            similar_places
-                    ))
+        # file_name = name.replace(" ", "")
+        # with open('crawledData/yamuDataset_few/' + file_name + '.txt', 'a+') as f:
+        #     f.write('url: {0}\n'
+        #             'name: {1}\n'
+        #             'excerpt: {2}\n'
+        #             'yamu_review: {3}\n'
+        #             'user_reviews: {4}\n'
+        #             'user_comments: {5}\n'
+        #             'contact: {6}\n'
+        #             'address: {7}\n'
+        #             'directions: {8}\n'
+        #             'opening_days: {9}\n'
+        #             'opening_hours: {10}\n'
+        #             'cuisine: {11}\n'
+        #             'price_range: {12}\n'
+        #             'dishes: {13}\n'
+        #             'overall_rating: {14}\n'
+        #             'quality_rating: {15}\n'
+        #             'service_rating: {16}\n'
+        #             'ambience_rating: {17}\n'
+        #             'near_by_places_names: {18}\n'
+        #             'near_by_places_addresses: {19}\n'
+        #             'near_by_places_distances: {20}\n'
+        #             'similar_places: {21}\n'
+        #             .format(url,
+        #                     name,
+        #                     excerpt,
+        #                     yamu_review,
+        #                     user_reviews,
+        #                     user_comments,
+        #                     contact,
+        #                     address,
+        #                     directions,
+        #                     opening_days,
+        #                     opening_hours,
+        #                     cuisine,
+        #                     price_range,
+        #                     dishes,
+        #                     overall_rating,
+        #                     quality_rating,
+        #                     service_rating,
+        #                     ambience_rating,
+        #                     near_by_places_names,
+        #                     near_by_places_addresses,
+        #                     near_by_places_distances,
+        #                     similar_places
+        #             ))
 
         yield {
                 'url': url,
